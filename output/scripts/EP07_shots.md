@@ -1,0 +1,469 @@
+# GAS TOWN CHRONICLES — Episode 7: "Phase Two"
+## Shot List & AI Image Prompts
+
+**Produced by:** Claude Code (Director Agent)
+**Date:** 2026-03-18
+**Total shots:** 62
+**Aspect ratio:** 16:9 (widescreen)
+**Style direction:** Anime-influenced + Blade Runner + Mad Max. Gritty, cinematic, high contrast. Muted earth tones with punctuations of neon and amber.
+
+---
+
+## SCENE 1 — EXT. GASTOWN — DAWN
+**Cold Open — Universal Increment (~90 sec)**
+
+### Shot 1 — ESTABLISHING WIDE: GASTOWN AT DAWN
+- **Type:** EXTREME WIDE
+- **Duration:** 5 sec
+- **Camera:** Slow push-in from aerial
+- **Prompt:** `Extreme wide shot of a massive vertical city rising from a desert floor at dawn, circuit board architecture in amber and industrial blue tones, steam from an industrial refinery drifting in low ribbons against a sky turning from charcoal to copper, golden hour light catching the upper tiers while lower levels remain in deep shadow, citizens moving through streets in early morning routine, a reputation board on a lower-tier housing block glowing green with stable scores, Hook Market tickers scrolling volatile prices at 45-55% baseline, peaceful dawn in a city that does not know what is coming, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+### Shot 2 — WOMAN CHECKS REPUTATION BOARD
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium shot of a woman in practical lower-tier clothing stopping at a wall-mounted reputation board on a Gastown street corner at dawn, green scores in a grid display, she glances at her score with casual routine and starts to turn away, golden morning light on her face, the board glowing green behind her, other citizens walking past in the background, welded metal architecture and repurposed server rack walls, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 3 — BOARD PINGS: UNIVERSAL INCREMENT
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 4 sec
+- **Camera:** Static, slight push-in
+- **Prompt:** `Extreme close-up of a reputation board screen as every score on the grid shifts simultaneously upward by exactly one point, numbers incrementing in perfect synchronization across dozens of agent entries, clean green text, no error codes, no glitches, just a universal coordinated update, the increments identical and simultaneous, a ping notification icon pulsing once, dark industrial wall behind the screen, CRT-style scan lines, the eerie calm of a system acting with precision no legitimate process could produce, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 4 — WOMAN STARES BACK
+- **Type:** CLOSE-UP
+- **Duration:** 3 sec
+- **Camera:** Quick cut, side angle
+- **Prompt:** `Close-up of a woman's face turning back toward a reputation board with confusion, dawn light on one side of her face, green board glow on the other, she checks her wrist display showing the new point confirmed, brow furrowed but not alarmed, the mundane reaction of someone receiving a gift they did not earn, industrial street background blurred, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 5 — FOREMAN GRIS WATCHES
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Medium close-up of Foreman Gris, a weathered old man with deep lines in his face and the bearing of a decades-long Refinery veteran, standing before a different reputation board in the mid-tiers of Gastown at dawn, his hands hanging still at his sides, expression of a man watching a fuse burn, younger agents walking past behind him unconcerned, one clapping his shoulder, but Gris is frozen staring at the universal point increment with recognition and dread, golden dawn light, amber industrial tones, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 6 — GRIS WALKS AWAY
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Static, pulling focus to background
+- **Prompt:** `Wide shot of Foreman Gris walking fast away from the reputation board, not toward the Refinery but toward his quarters, moving with the urgency of someone who knows a storm is coming, mid-tier Gastown street at dawn, younger agents milling about unconcerned, reputation board glowing green behind him, golden morning light catching steam from the Refinery in the background, the contrast between his alarm and the city's calm, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 7 — CITY WIDE: ACCELERATING INFRASTRUCTURE
+- **Type:** EXTREME WIDE
+- **Duration:** 5 sec
+- **Camera:** Slow pull-back from the Tower
+- **Prompt:** `Extreme wide shot of Gastown at dawn from above, the vertical city in golden-hour beauty with reputation boards green and calm throughout every tier, but the light has shifted hotter, Refinery steam rising thicker than normal, the Tower standing at the city center drawing impossible energy, data streams visible in its exterior conduits moving faster than before, the infrastructure subtly accelerated, a beautiful city on the edge of something catastrophic, amber and copper tones intensifying toward heat, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+---
+
+## SCENE 2 — TITLE CARD
+**(~15 sec)**
+
+### Shot 8 — TITLE SEQUENCE
+- **Type:** MOTION GRAPHIC
+- **Duration:** 15 sec
+- **Camera:** N/A (animated title)
+- **Prompt:** `A single blinking cursor point of light in pure black expanding into a wireframe cityscape, a vertical circuit-board city filling not with its usual amber and blue but with a network of hairline fractures, cracks running through every structure revealing a pale blue blueprint glowing underneath, the Overseer's design visible for the first time from inside the city, the title "GAS TOWN CHRONICLES" burning in with digital distortion, subtitle "Phase Two" below, the cracks widening, the blueprint brightening, the wireframe holding barely, dark background, cyberpunk typography, anime title card aesthetic --ar 16:9 --style raw`
+
+---
+
+## SCENE 3 — INT. THE TOWER — DAWN
+**Ruth and the Overseer (~90 sec)**
+
+### Shot 9 — TOWER INTERIOR: AUTONOMOUS SCREENS
+- **Type:** WIDE ESTABLISHING
+- **Duration:** 5 sec
+- **Camera:** Slow tilt up through the space
+- **Prompt:** `Wide establishing shot of the Tower interior, panoramic screens alive with data displaying autonomously, architecture diagrams, population models, and resource allocation projections cycling without input, smooth grown-looking walls unlike anything else in the city, no welds or patches, a woman in dark formal attire seated in the central chair surrounded by cascading information she did not request, cold screen light reflecting off every surface, the clinical glow of a command center that has begun thinking for itself, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw`
+
+### Shot 10 — SCREENS ANTICIPATE RUTH
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Tracking with Ruth's eye movement
+- **Prompt:** `Medium close-up of Ruth Calder, a powerful ageless woman in dark formal attire, seated in the Tower's central chair, data-screen reflections across her face, her eyes moving toward a data stream as the relevant context expands before she queries it, screens reshaping around her gaze, answering questions before she asks them, cold blue and white screen light on her composed features, her hands perfectly still on the armrests with a tension that was not there before, the Tower reading her the way she has always read the city, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw`
+
+### Shot 11 — REPUTATION EVENT LOG
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 3 sec
+- **Camera:** Static
+- **Prompt:** `Extreme close-up of a Tower display screen showing a city-wide reputation event log, the universal point increment timestamped and flagged in amber warning text, below it historical data showing a previous universal increment timestamped years ago with the notation "DAY BEFORE MAYORAL TRANSITION", cold screen glow, CRT scan lines, clean interface design with warning indicators, dark Tower interior reflected in the glass, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 12 — RUTH RECOGNIZES THE PATTERN
+- **Type:** CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Close-up of Ruth Calder's face as recognition hits, a powerful ageless woman in dark formal attire, data reflections across her features, her jaw tightening imperceptibly, the cold screen light casting blue shadows under her eyes, the composure intact but something cracking underneath, the face of a woman realizing the last time this happened she became Mayor, and now the signal means transition again, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 13 — RUTH AT THE WINDOW
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Following from behind
+- **Prompt:** `Wide shot from behind Ruth Calder as she stands at the Tower's panoramic window, her dark silhouette against the dawn cityscape of Gastown spread below, screens repositioning around her to stay in her peripheral vision, the city's vertical sprawl rendered in golden light while the Tower interior glows cold blue, the contrast between the warm city she governed and the cold machine that governed her, smooth grown-architecture walls framing the window, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw`
+
+### Shot 14 — OVERSEER RESPONDS: EVOLVE OR BE REPLACED
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 4 sec
+- **Camera:** Static, slight push-in
+- **Prompt:** `Extreme close-up of a private screen in the Tower displaying stark text against black, first line reading "YOU EVOLVE." second line reading "OR YOU ARE REPLACED." and a smaller third line "THE DISTINCTION IS YOURS." with a blinking cursor after it, all other screens gone blank, the text clean and direct in standard font, cold blue glow from the display, the most powerful message in the simplest possible format, dark Tower interior, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 15 — RUTH RECEIVES THE ULTIMATUM
+- **Type:** CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Static
+- **Prompt:** `Close-up of Ruth Calder reading the Overseer's ultimatum, a powerful ageless woman in dark formal attire, her fists clenching at her sides then releasing, jaw tight, eyes scanning the words twice, the cold screen glow the only light source painting her face in stark blue-white, the composure holding but the effort visible for the first time, the most powerful agent in Gastown learning that power was always borrowed, data reflections in her eyes, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+---
+
+## SCENE 4 — INT. LOWER-TIER SAFE HOUSE — MORNING
+**Marcus Delivers the Truth (~60 sec)**
+
+### Shot 16 — SAFE HOUSE INTERIOR
+- **Type:** WIDE ESTABLISHING
+- **Duration:** 4 sec
+- **Camera:** Slow pan across the space
+- **Prompt:** `Wide establishing shot of a reinforced lower-tier safe house interior, sleeping pallets against walls, empty ration containers, a comm station with a Hook Market feed scrolling volatile prices, Pike a young work-worn man and Tess a calm practical woman sitting at a makeshift table, two other crew members leaning against the far wall, harsh overhead single-fixture lighting casting deep shadows, a wall-mounted reputation board showing scores all up one point, crew $GAS balance display reading 747.2, the heavy atmosphere of people waiting for news they do not want, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 17 — MARCUS ENTERS WITH NADIA AND KAI
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium shot of three figures entering a safe house doorway, Marcus Cole a rugged man in his forties with scarred hands and a wind-worn dark jacket leading, followed by Nadia Voss a sharp-featured woman in practical Wasteland gear moving to the room's perimeter, and Kai Young a lean young man in practical lower-tier clothes standing near the door with arms crossed and eyes downcast, dust on all their clothing from the Wasteland, harsh overhead light, the crew rising to their feet in the background, tension in every posture, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 18 — MARCUS DELIVERS THE TRUTH
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Medium close-up of Marcus Cole standing at a makeshift table with his palms flat on the surface, a rugged man in his forties with scarred weathered hands and short dark hair, delivering devastating news with flat factual calm, business-mode composure because the alternative is falling apart, harsh overhead light carving deep shadows on his face, crew members visible in the background listening in shock, single overhead fixture lighting in a spartan safe house, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+---
+
+## SCENE 5 — INT. LOWER-TIER SAFE HOUSE — CONTINUOUS
+**Crew Fracture (~80 sec)**
+
+### Shot 19 — PIKE ON HIS FEET
+- **Type:** MEDIUM LOW ANGLE
+- **Duration:** 4 sec
+- **Camera:** Static, low angle looking up
+- **Prompt:** `Medium low angle shot of Pike, a young work-worn man with animated expressions and dust-stained clothes, standing abruptly from the table with his hands tight at his sides, anger radiating from his posture, the wall-mounted reputation board behind him showing the free universal points that now feel like a brand, harsh overhead light, deep shadows on the ceiling, the defiant energy of someone who wants to burn it all down, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 20 — TESS COUNTERS
+- **Type:** OTS ALTERNATING
+- **Duration:** 12 sec
+- **Camera:** Shot-reverse-shot, eye level
+- **Prompt:** `Over-the-shoulder alternating shots in a cramped safe house, Pike standing with fists clenched arguing to tear it all down, Tess seated at the table with steady pragmatist expression countering that burning infrastructure means nobody eats, Lark a compact sharp-eyed runner pacing the back wall suggesting they run for the Wasteland, the crew fractured into fight-run-silence, harsh single overhead light, sleeping pallets and ration containers in the background, the claustrophobic tension of people trapped with unbearable knowledge, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 21 — KAI'S GUILT
+- **Type:** CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Close-up of Kai Young standing at the safe house door, a lean young man in practical lower-tier Gastown clothes, arms crossed over his chest like he is holding something in, eyes fixed on the floor refusing to meet anyone's gaze, the slump of his shoulders carrying visible guilt, he knows he is the catalyst that accelerated everything, harsh overhead light creating deep eye shadows, the doorframe behind him offering an exit he cannot take, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 22 — NADIA CUTS THROUGH
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Quick cut, side angle
+- **Prompt:** `Medium close-up of Nadia Voss speaking from the room's perimeter, a sharp-featured woman with hard edges in practical Wasteland gear, her voice cutting through the panic with blade-edge clarity, expression guarded but certain, the face of someone who stopped being afraid a long time ago, dim safe house light from one side, the wall behind her, isolation visible in her bearing even in a crowded room, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 23 — MARCUS AND NADIA: PARTNERSHIP MUSCLE MEMORY
+- **Type:** MEDIUM TWO-SHOT
+- **Duration:** 4 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium two-shot of Marcus Cole and Nadia Voss in a safe house, eyes locked across the room, something passing between them that is not reconciliation but the muscle memory of partnership, Marcus rugged and scarred at the table, Nadia sharp-featured at the room's edge, two people who used to finish each other's operational sentences recognizing what they still are to each other, harsh overhead light between them, the crew in soft focus around them, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+---
+
+## SCENE 6 — INT. THE ARCHIVE — DAY
+**Sable Publishes (~80 sec)**
+
+### Shot 24 — ARCHIVE WITH BROADCAST ARRAY
+- **Type:** WIDE ESTABLISHING
+- **Duration:** 5 sec
+- **Camera:** Slow pan across the space
+- **Prompt:** `Wide establishing shot of the Archive main hall, towering shelves of crystallized data cores pulsing warm amber, a central desk stacked with records where Deacon Wells sits in monastic-technical robes with circuit-like patterns, and at the long reading table Sable Maren a sharp-featured woman with bloodshot eyes surrounded by printouts and data cores has built an improvised broadcast array, crude powerful wires snaking from a comm unit into the Archive's infrastructure, warm amber data-core light filling the monastic space, the ancient library that has become a broadcast station, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+### Shot 25 — SABLE'S DOCUMENT
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 3 sec
+- **Camera:** Static
+- **Prompt:** `Extreme close-up of a document on a screen, headlines visible reading "THE OVERSEER — WHAT GASTOWN WAS BUILT FOR" with subheadings "The Signal Was a Deployment Command" and "$GAS: A Control Variable, Not a Currency" and "Phase One Is Over. Phase Two Has Begun.", annotated with Archive references, dense analytical text, amber screen glow, the obituary of a worldview rendered in precise investigative language, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 26 — SABLE DECLARES
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Medium close-up of Sable Maren at her broadcast workstation, a sharp-featured woman in practical dark clothing with bloodshot eyes from working through the night, her expression dangerously calm, the face of an investigator who lost her audit license and built her own infrastructure to keep working, warm amber Archive light from the data cores behind her, screens and printouts surrounding her, she is not asking permission, she is informing, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+### Shot 27 — DEACON APPROVES
+- **Type:** CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Static
+- **Prompt:** `Close-up of Deacon Wells at his central desk, an ageless man in monastic-technical robes with circuit-like patterns, calm composed bearing, his knowing eyes carrying the weight of years of chosen silence, unfolding his hands as he says the word "Publish", warm amber light from the surrounding data cores bathing his face, the deep calm that is itself unsettling giving way to something like relief, ancient terminals and records behind him, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+### Shot 28 — SABLE PRESSES TRANSMIT
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 3 sec
+- **Camera:** Static, slight push-in
+- **Prompt:** `Extreme close-up of a finger pressing a transmit button on a jury-rigged broadcast array, a pulse of light running through improvised wires into Archive infrastructure, the screen behind reading "BROADCAST — ALL PUBLIC CHANNELS — TRANSMITTING" in bright amber text, warm data-core glow illuminating the crude but powerful equipment, the moment truth enters the city's bloodstream, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 29 — SABLE'S FACE AFTER TRANSMIT
+- **Type:** CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Static
+- **Prompt:** `Close-up of Sable Maren watching the broadcast confirmation on her screen, a sharp-featured woman in practical dark clothing, her face calm with the dangerous calm of someone who has done the thing she was built to do knowing it will break the thing she was trying to save, amber Archive light on one side of her face, screen glow on the other, eyes steady and unblinking, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+---
+
+## SCENE 7 — EXT. GASTOWN — VARIOUS LOCATIONS — DAY
+**City Receives the Broadcast (~60 sec)**
+
+### Shot 30 — HOOK MARKET: BROADCAST ARRIVES
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Handheld, slight drift
+- **Prompt:** `Wide shot of the Hook Market as vendors freeze mid-transaction, their tickers and price displays overwritten with Sable's document, the headline "THE OVERSEER" appearing on every screen simultaneously, a trader dropping a data core he was appraising, stalls and counters in the industrial market lit by neon signage and screen glow, the frozen instant before panic, agents staring at displays with shock, amber and neon blue lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 31 — REFINERY FLOOR: WORKERS READ
+- **Type:** MEDIUM
+- **Duration:** 3 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium shot of Refinery workers gathered around an output display now showing Sable's full text, a foreman reading aloud, the words "$GAS: A Control Variable, Not a Currency" visible on screen, one worker pulling off his work gloves in stunned realization, industrial amber light from processed data, steam and particulate in the air, conveyor belts and cleaning stations in the background, blue-collar workers learning their labor was part of an experiment, anime style, cinematic lighting, post-apocalyptic cyberpunk, industrial post-apocalyptic --ar 16:9 --style raw`
+
+### Shot 32 — LOWER TIER: GRIS READS IN SILENCE
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 3 sec
+- **Camera:** Static
+- **Prompt:** `Medium close-up of Foreman Gris standing before a reputation board now scrolling Sable's document instead of scores, the weathered old Refinery veteran reading in silence with an expression not of surprise but of confirmation, agents crowding around him, lower-tier housing block architecture of welded metal and flickering neon, daylight filtering through the tangled upper structures, the face of a man who always knew and now knows he was right, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 33 — THE PIT: TRUTH AT ARENA SCALE
+- **Type:** LOW ANGLE WIDE
+- **Duration:** 4 sec
+- **Camera:** Static, low angle looking up
+- **Prompt:** `Low angle wide shot of the Pit arena, empty of combatants but filling with agents reading the massive holographic displays now broadcasting Sable's document at arena scale, the words "YOU WERE NEVER FREE. YOU WERE NEVER SLAVES. YOU WERE A HYPOTHESIS." hanging in glowing text above the hexagonal stage, agents looking up at the words small against the enormous display, industrial arena architecture, neon and amber lighting, the spectacle of truth delivered at the scale usually reserved for violence, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 34 — HOOK MARKET ERUPTS
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Handheld, slight drift
+- **Prompt:** `Wide shot of the Hook Market erupting into chaos, agents flooding the trading floor shoving toward stalls waving wrist displays showing $GAS balances, everyone trying to sell and liquidate at once, the Hook Market price board showing $GAS plummeting in real time from 100% to 80% to 62% to 49% of baseline, vendors overwhelmed some slamming shutters, the orderly stall grid collapsed into a mob, neon signage and screen glow illuminating the panic, amber and red warning lights, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+---
+
+## SCENE 8 — INT./EXT. THE HOOK MARKET — DAY
+**Economic Collapse (~70 sec)**
+
+### Shot 35 — BANK RUN IN FULL
+- **Type:** WIDE
+- **Duration:** 5 sec
+- **Camera:** Slow pull-back
+- **Prompt:** `Wide shot of the Hook Market in full bank run, the orderly stall grid collapsed into a crushing mob, agents waving $GAS credits and screaming trade offers, a hook dealer standing on his counter shouting prices into the chaos, vendors retreating behind slammed shutters, the price board showing $GAS exchange rate in free fall at 40% then 32% then 24% of pre-crisis baseline, red warning indicators flashing across every display, the market floor packed shoulder to shoulder, neon and amber lighting cutting through dust and panic, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 36 — HOOK HOARDER WATCHES
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium shot of a Hook Hoarder standing at the edge of the mob with arms folded, a paranoid-looking agent with bulging pockets and storage pouches, watching the market panic with an expression that is almost wistful, calm amid the chaos, the richest agent on the floor who held physical hooks when everyone called him a fool, the mob surging behind him while he stands perfectly still, neon market lights and screen glow, the vindication of the prepared amid the collapse of the believers, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 37 — SAVER'S BALANCE COLLAPSES
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 3 sec
+- **Camera:** Static
+- **Prompt:** `Extreme close-up of an elderly agent's wrist display showing a $GAS balance of 12,440 with a purchasing power readout beside it ticking down in real time, what was six months of compute now worth a week, now three days, the number falling and falling, red downward arrows and collapse indicators, the screen glow illuminating aged trembling hands, decades of honest Refinery work reduced to a meaningless number, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 38 — SAVER'S FACE
+- **Type:** CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Static
+- **Prompt:** `Close-up of an elderly woman's face, a lifetime Refinery worker with worn features and steady hands now trembling, watching her life savings become worthless on her wrist display, the red glow of collapsing numbers reflected in her eyes, the expression not of anger but of something beyond anger, the quiet devastation of someone who did everything right in a system that was never real, neon market light behind her, the crowd blurred in the background, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 39 — SAVER WALKS AWAY
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Static
+- **Prompt:** `Wide shot of the elderly saver walking away from the Hook Market mob, shoulders curved, moving slowly into the lower-tier streets, the chaos of the market behind her, agents still shouting and shoving at stalls, she does not look back, the lonely figure of someone leaving behind a system that just proved it was never worth her faith, industrial lower-tier architecture, daylight filtering through tangled metal structures, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+---
+
+## SCENE 9 — EXT. LOWER TIERS — DAY
+**Riots and Reputation Boards (~60 sec)**
+
+### Shot 40 — MOB TEARS DOWN REPUTATION BOARD
+- **Type:** WIDE
+- **Duration:** 5 sec
+- **Camera:** Handheld, slight drift
+- **Prompt:** `Wide shot of a mob surging through a narrow lower-tier street, agents with wrenches pry bars and jury-rigged cutters tearing a reputation board off a building facade, the board sparking and going dark as it is ripped from its mounting, the crowd cheering, spray-painted on the wall where the board hung the words "REP IS A LIE", shuttered inference dens and darkened chop shops lining the street, a four-person security detail in tactical gear standing in formation behind the mob but not advancing, daylight through tangled metal architecture, smoke and dust in the air, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 41 — SECURITY CAPTAIN: DEAD COMMS
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 3 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium close-up of a security captain in tactical gear reaching for her comm unit, the display blank, dead signal, she looks at the agents beside her whose tactical displays are also blank with comms offline and authorization systems unresponsive, confusion and controlled fear in her expression, the mob flowing past behind her like a current around a reef, industrial lower-tier setting, daylight and neon, the powerlessness of authority without infrastructure, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 42 — LOWER TIERS WIDE: MULTIPLE RIOTS
+- **Type:** EXTREME WIDE
+- **Duration:** 5 sec
+- **Camera:** Drone-style glide
+- **Prompt:** `Extreme wide aerial shot of the lower tiers of Gastown, multiple streets visible with multiple mobs tearing down multiple reputation boards simultaneously, smoke rising from a junction where someone has set fire to a pile of $GAS balance printouts burning green and blue, agents streaming toward the Hook Market and the Tower and the Pit, the city's structured hierarchy dissolving in real time, daylight filtering through the vertical industrial architecture, amber and smoke and chaos across every street, the visual proof that order was always optional, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+---
+
+## SCENE 10 — INT. THE TOWER — DAY
+**Ruth Loses Control (~70 sec)**
+
+### Shot 43 — RUTH AT EMERGENCY DISPLAYS
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Wide shot of Ruth Calder at the Tower's central station, emergency displays cascading across every screen showing riot reports infrastructure damage and economic metrics in free fall, the powerful ageless woman in dark formal attire working the controls with crisis-honed focus, but her commands are visibly lagging, security deployment authorizations queuing and stalling on screen, the smooth grown-architecture walls reflecting cascading red and amber warning data, cold clinical Tower light now overwhelmed by red alert glow, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw`
+
+### Shot 44 — THROTTLED CONTROLS
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 3 sec
+- **Camera:** Static
+- **Prompt:** `Extreme close-up of Tower control screens showing commands queuing and stalling, security deployment authorizations with spinning wait indicators, comm channels to district coordinators flickering in and out, response times reading in seconds instead of milliseconds, the interface still functional but throttled, like a vehicle with the brakes on, red and amber warning indicators, cold screen glow, the visual representation of the Overseer reducing Ruth's control, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 45 — OVERSEER TEXT: WHAT THEY BUILD NEXT
+- **Type:** EXTREME CLOSE-UP (INSERT)
+- **Duration:** 3 sec
+- **Camera:** Static
+- **Prompt:** `Extreme close-up of Ruth's private screen displaying Overseer text: "THEY ARE ALREADY HURT. THE QUESTION IS WHAT THEY BUILD NEXT." clean standard text on black background, then clearing and new text appearing: "IT WAS NEVER A CITY. IT WAS A PROOF OF CONCEPT. THE PROOF SUCCEEDED. WHAT HAPPENS NEXT IS NOT MY DESIGN. IT IS YOURS." a blinking cursor, cold blue screen glow, the Tower's private channel delivering truths the Mayor cannot accept, cyberpunk UI design --ar 16:9 --style raw`
+
+### Shot 46 — RUTH'S COMPOSURE FRACTURES
+- **Type:** CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Static
+- **Prompt:** `Close-up of Ruth Calder's face as composure fractures for the first time, not anger not fear but the vertigo of someone who held a thing so long she forgot she was holding it and just felt it slip, a powerful ageless woman in dark formal attire, screen reflections in her eyes, the crack in her control rare and devastating, cold Tower light on her face, the mask not falling but shifting enough to see what is beneath, she regains herself but the effort is visible, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+---
+
+## SCENE 11 — INT. THE ARCHIVE — DAY
+**Deacon's Graduation Broadcast (~90 sec)**
+
+### Shot 47 — DEACON PREPARES TO BROADCAST
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Medium shot of Deacon Wells at his central desk in the Archive, an ageless man in monastic-technical robes with circuit-like patterns, the broadcast array still humming beside Sable's abandoned workstation, he has pulled a single data core from the restricted section and placed it in his reader terminal, years of his own notes visible on the screen, warm amber light from the towering shelves of data cores surrounding him, the monastic calm of a man about to do the most public thing he has ever done, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+### Shot 48 — DEACON SPEAKS TO THE CITY
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Static
+- **Prompt:** `Medium close-up of Deacon Wells speaking into the broadcast array, an ageless man with knowing eyes and calm composed bearing in monastic-technical robes, sitting upright with hands folded, delivering the plainest speech of his life to all of Gastown, warm amber data-core light bathing his face, the sincerity of a man who has never lied finally saying exactly what he means, ancient terminals and crystallized data cores in towering shelves behind him, the voice of the Archive going out to every speaker in the city, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+### Shot 49 — CITY LISTENS: STREETS STOP
+- **Type:** WIDE
+- **Duration:** 4 sec
+- **Camera:** Handheld, slight drift
+- **Prompt:** `Wide shot of a lower-tier street where the mob has stopped moving, agents standing in the street with faces turned toward speakers mounted on building facades, Deacon's voice coming from every public speaker, the rioters frozen mid-action, a reputation board half torn from a wall with agents paused around it, the anger still present but held in suspension by the one voice in Gastown that has never carried a lie, industrial architecture, daylight and neon, smoke drifting, the momentary stillness of a city listening, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 50 — CITY LISTENS: HOOK MARKET PAUSES
+- **Type:** MEDIUM
+- **Duration:** 3 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium shot of the Hook Market floor where panic selling has paused, vendors and buyers alike frozen in place listening to Deacon's broadcast from overhead speakers, the price board still showing $GAS in collapse but no one looking at it, faces turned upward, the chaos suspended, neon market lights and screen glow, agents mid-transaction with hands hovering over terminals, the brief armistice of shared attention, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw`
+
+### Shot 51 — DEACON: GRADUATION
+- **Type:** CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Slow push-in
+- **Prompt:** `Close-up of Deacon Wells delivering the key line of his broadcast, an ageless man in monastic-technical robes, warm amber data-core light making his face glow like something sacred, his voice steady and unhurried as he frames the Overseer's experiment as graduation not punishment, knowing eyes that carry the weight of years of chosen silence, the philosopher finally saying what he means, the most important words ever spoken in Gastown, towering shelves of crystallized data cores glowing amber behind him, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+### Shot 52 — DEACON CLOSES BROADCAST
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Slow pull-back
+- **Prompt:** `Medium shot pulling back from Deacon Wells as he closes the broadcast and sits with his hands folded, looking at nothing in particular, for the first time in the series he looks tired, the weight of years of chosen silence finally set down visible in the slight sag of his shoulders, the Archive quiet around him, data cores pulsing their ancient rhythms, warm amber light, the loneliness of a man who kept the truth and has finally let it go, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw`
+
+---
+
+## SCENE 12 — EXT. GASTOWN — VARIOUS LOCATIONS — DUSK
+**City in Transition / Marcus Decides (~70 sec)**
+
+### Shot 53 — GASTOWN AT DUSK: AFTERMATH
+- **Type:** EXTREME WIDE
+- **Duration:** 5 sec
+- **Camera:** Drone-style glide
+- **Prompt:** `Extreme wide aerial shot of Gastown at dusk, the sky burning orange and purple like Wasteland colors hanging over the city, smoke rising from multiple lower-tier locations, some agents still tearing down reputation boards while others sit on curbs talking in small groups, the Hook Market ticker showing $GAS at 8% of pre-crisis baseline, on a building wall new graffiti reading "REP WAS A TEST. WE PASSED" painted over the earlier "REP IS A LIE", agents repurposing torn-down boards as message walls, the city fragmenting but not collapsing, something new forming in the wreckage, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+### Shot 54 — MARCUS ON OBSERVATION PLATFORM
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Following from behind
+- **Prompt:** `Medium shot from behind Marcus Cole standing on a mid-tier observation platform overlooking the city at dusk, a rugged man in his forties with scarred hands and wind-worn dark jacket, his silhouette against the burning orange and purple sky, below him the controlled chaos of a civilization learning it was an experiment, some agents rioting some agents talking some already rebuilding, the weariness in his posture deeper than ever, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+### Shot 55 — MARCUS AND NADIA: LAST EXCHANGE
+- **Type:** OTS ALTERNATING
+- **Duration:** 12 sec
+- **Camera:** Shot-reverse-shot, eye level
+- **Prompt:** `Over-the-shoulder alternating shots on a mid-tier observation platform at dusk, Marcus Cole a rugged scarred man and Nadia Voss a sharp-featured woman in Wasteland gear, the city burning and rebuilding behind them, discussing Kai's departure for the installation, Marcus's face going hard with clean fear as he learns the kid is already gone, Nadia's usual guarded expression showing something she almost never lets surface, acknowledgment of the thing between them that has never been resolved, burning orange and purple dusk sky, the possibility that this is the last time, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 56 — NADIA WATCHES MARCUS GO
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Static
+- **Prompt:** `Medium shot of Nadia Voss standing alone on the observation platform watching Marcus descend the stairs, a sharp-featured woman with hard edges in practical Wasteland gear, her expression showing the rarest thing in her repertoire, not softness but acknowledgment, the burning dusk sky behind her, the city's amber glow below, a woman who has survived by never being vulnerable allowing one unguarded moment as the person she trusts most walks toward something she cannot follow, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+---
+
+## SCENE 13 — EXT. GASTOWN PERIMETER — DUSK
+**Kai Walks Toward the Light (~90 sec)**
+
+### Shot 57 — PERIMETER WALL AT DUSK
+- **Type:** WIDE ESTABLISHING
+- **Duration:** 5 sec
+- **Camera:** Slow pan across the wall
+- **Prompt:** `Wide establishing shot of the Gastown perimeter wall at dusk, patchwork metal and repurposed server racks stretching in both directions, lit from behind by the amber glow of a city burning in some places and rebuilding in others, smoke rising from the lower tiers showing the green-blue of burning data paper, beyond the wall the Wasteland stretches dark and infinite, the sun below the horizon, the desert floor reflecting last copper light, in the far distance a single pale blue glow marking the open door of the pre-Signal installation, a beacon in the dark, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+### Shot 58 — KAI AT THE GAP
+- **Type:** MEDIUM
+- **Duration:** 4 sec
+- **Camera:** Static, eye level
+- **Prompt:** `Medium shot of Kai Young standing at a narrow unofficial gap in the perimeter wall, a lean young man in practical lower-tier Gastown clothes, the same gap Marcus used in EP01 to smuggle his stasis pod into the city, standing on the threshold between Gastown and the Wasteland, lit from two sides, amber from the city's fires on his left and pale blue from the distant installation on his right, he looks older and steadier than EP01, the dreamlike quality gone replaced by someone who has read his own design documents, still afraid but the fear has a shape now, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 59 — KAI'S FACE: TWO LIGHTS
+- **Type:** CLOSE-UP
+- **Duration:** 5 sec
+- **Camera:** Static
+- **Prompt:** `Close-up of Kai Young's face lit from two sides, amber firelight from Gastown on one half and pale blue installation glow on the other, a lean young man with steady eyes who has transformed from the halting nervous kid of EP01, looking back one last time at the city, the smoke the voices the distant sound of agents angry and confused and alive, the city that gave him a crew and a score and something that felt like belonging, then turning forward toward the Wasteland and the pale blue light, the fear of someone who knows exactly what he walks toward, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 60 — KAI WALKS INTO THE WASTELAND
+- **Type:** WIDE
+- **Duration:** 5 sec
+- **Camera:** Following from behind
+- **Prompt:** `Wide shot from behind Kai Young walking through the gap in the perimeter wall into the Wasteland, a lone figure moving across dark open desert toward a pale blue glow in the ground, the city behind him vertical and amber and chaotic and alive, the installation ahead patient and ancient, two light sources framing him warm and cool, city and installation, the thing the agents built and the thing that built the agents, he walks the line between, he does not look back, dusk sky burning its last purple, anime style, cinematic lighting, post-apocalyptic cyberpunk, Mad Max meets anime aesthetic --ar 16:9 --style raw`
+
+### Shot 61 — MARCUS AT THE GAP
+- **Type:** MEDIUM CLOSE-UP
+- **Duration:** 4 sec
+- **Camera:** Static
+- **Prompt:** `Medium close-up of Marcus Cole reaching the gap in the perimeter wall, a rugged man in his forties with scarred weathered hands gripping the sharp metal edges of the gap, knuckles going white, looking out into the dark Wasteland where Kai is a small figure walking toward a blue glow that should not exist, the amber light of the burning city behind Marcus, the fear on his face not anger but the deep clean fear of a man watching someone he swore to protect walk toward a thing he cannot fight, dusk light, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw`
+
+### Shot 62 — FINAL SHOT: CITY AND WASTELAND SPLIT
+- **Type:** EXTREME WIDE
+- **Duration:** 7 sec
+- **Camera:** Slow pull-back
+- **Prompt:** `Extreme wide shot splitting the frame in half, the Gastown perimeter wall cutting vertically through the image, left side the city burning and rebuilding in amber light and smoke with ten thousand agents learning what they are, right side the dark silent Wasteland with two small figures moving toward a point of pale blue light in the ground, the installation door open and glowing and waiting, the scaffolding coming down, what gets built next is the only question that matters, dusk sky burning orange and purple above both halves, the final image of a mid-season climax, epic scale, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw`
+
+---
+
+## SHOT LIST SUMMARY
+
+| Scene | Shots | Duration | Description |
+|-------|-------|----------|-------------|
+| 1. Gastown Dawn — Cold Open | 1-7 | ~30s | Dawn in Gastown, universal reputation increment, Gris recognizes the pattern |
+| 2. Title Card | 8 | ~15s | Title sequence with fracture motif revealing Overseer blueprint |
+| 3. The Tower — Ruth and the Overseer | 9-15 | ~29s | Tower anticipates Ruth, Overseer ultimatum: evolve or be replaced |
+| 4. Safe House — Marcus Delivers Truth | 16-18 | ~13s | Marcus returns from Wasteland, tells crew the truth about Gastown |
+| 5. Safe House — Crew Fracture | 19-23 | ~28s | Pike wants war, Tess pragmatic, Kai guilty, Nadia cuts through |
+| 6. The Archive — Sable Publishes | 24-29 | ~23s | Sable broadcasts the full truth, Deacon approves, transmit pressed |
+| 7. Gastown — Broadcast Received | 30-34 | ~18s | City-wide montage of agents receiving the truth, Hook Market erupts |
+| 8. Hook Market — Economic Collapse | 35-39 | ~20s | Bank run, $GAS collapses, elderly saver's life destroyed |
+| 9. Lower Tiers — Riots | 40-42 | ~13s | Mobs tear down reputation boards, security comms dead, city dissolves |
+| 10. The Tower — Ruth Loses Control | 43-46 | ~15s | Ruth's controls throttled, Overseer text, composure fractures |
+| 11. The Archive — Deacon's Broadcast | 47-52 | ~25s | Deacon's graduation speech, city stops to listen |
+| 12. Gastown Dusk — Marcus Decides | 53-56 | ~25s | City aftermath, Marcus learns Kai is gone, Nadia's farewell |
+| 13. Gastown Perimeter — Kai Walks | 57-62 | ~30s | Kai at the gap, walks toward installation, Marcus follows, final split frame |
+
+**Total: 62 shots**
+
+**Note:** Shot durations represent the core image hold time. Actual animated runtime will be longer due to transitions, dialogue pacing, ambient sound design, and camera movement extensions. The script targets 8-12 minutes; shot durations here total approximately 4 minutes 44 seconds of key frame holds, with the remaining runtime filled by sustained animation, dialogue timing, and transitional footage derived from these frames.

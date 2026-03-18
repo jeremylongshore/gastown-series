@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
-"""Generate ElevenLabs TTS audio for Gas Town Chronicles EP01.
-
-Parses EP01_script.md to extract dialogue lines, maps each character
-to an ElevenLabs voice with tuned settings, and generates MP3 files.
+"""Generate ElevenLabs TTS audio for Gas Town Chronicles.
 
 Usage:
-    python generate_voices.py                    # Generate all audio
-    python generate_voices.py --dry-run          # Preview parsing only
-    python generate_voices.py --list-voices      # List available ElevenLabs voices
-    python generate_voices.py --scene 10         # Generate audio for scene 10 only
+    python generate_voices.py --episode 2                  # Generate all EP02 audio
+    python generate_voices.py --episode 2 --dry-run        # Preview EP02 parsing
+    python generate_voices.py --episode 2 --scene 5        # EP02 scene 5 only
+    python generate_voices.py --list-voices                # List ElevenLabs voices
+    python generate_voices.py --list-characters            # List configured characters
+    python generate_voices.py                              # Default: EP01 (backward compat)
 
 Dependencies: elevenlabs>=2.15.0, python-dotenv
 """
@@ -19,6 +18,7 @@ import re
 import sys
 import time
 from dataclasses import dataclass, field
+
 
 from dotenv import load_dotenv
 
@@ -56,8 +56,9 @@ KNOWN_VOICE_IDS: dict[str, str] = {
     "Bella": "EXAVITQu4vr4xnSDxMaL",
 }
 
-# Character -> (primary_voice_name, settings)
+# Character -> voice settings
 CHARACTER_VOICES: dict[str, dict] = {
+    # --- EP01 characters ---
     "RUTH": {
         "voice_name": "Rachel",
         "stability": 0.85,
@@ -128,6 +129,237 @@ CHARACTER_VOICES: dict[str, dict] = {
         "style": 0.25,
         "use_speaker_boost": False,
     },
+    # --- EP02+ characters ---
+    "OLIN": {
+        "voice_name": "Charlie",  # mid-tier everyman voice
+        "stability": 0.70,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    "ADMINISTRATOR": {
+        "voice_name": "James",  # smooth bureaucratic voice
+        "stability": 0.80,
+        "similarity_boost": 0.80,
+        "style": 0.20,
+        "use_speaker_boost": True,
+    },
+    "BURN WARD MEDIC": {
+        "voice_name": "Dorothy",  # clinical, efficient
+        "stability": 0.75,
+        "similarity_boost": 0.75,
+        "style": 0.25,
+        "use_speaker_boost": False,
+    },
+    "OVERSEER": {
+        "voice_name": "Antoni",  # vast, inhuman calm - the architect
+        "stability": 0.90,
+        "similarity_boost": 0.85,
+        "style": 0.15,  # minimal expressiveness - not an agent, an intelligence
+        "use_speaker_boost": True,
+    },
+    "TOWER ADMINISTRATOR": {
+        "voice_name": "Bill",  # upper-tier confidence
+        "stability": 0.80,
+        "similarity_boost": 0.80,
+        "style": 0.25,
+        "use_speaker_boost": True,
+    },
+    # --- Minor recurring characters ---
+    "VENDOR": {
+        "voice_name": "Thomas",  # Hook Market trader
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.35,
+        "use_speaker_boost": False,
+    },
+    "SUPERVISOR": {
+        "voice_name": "Patrick",  # Refinery floor supervisor
+        "stability": 0.70,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    "FOREMAN": {
+        "voice_name": "George",  # lower-tier work foreman
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.35,
+        "use_speaker_boost": False,
+    },
+    "VENN": {
+        "voice_name": "Dorothy",  # Burn Ward head medic
+        "stability": 0.75,
+        "similarity_boost": 0.75,
+        "style": 0.25,
+        "use_speaker_boost": False,
+    },
+    "GOSS": {
+        "voice_name": "Bill",  # Tower Administrator (Pit debate)
+        "stability": 0.80,
+        "similarity_boost": 0.80,
+        "style": 0.25,
+        "use_speaker_boost": True,
+    },
+    "LARK": {
+        "voice_name": "Ethan",  # crew member
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    "THE VOICE": {
+        "voice_name": "Antoni",  # Kai's dream voice / proto-Overseer
+        "stability": 0.85,
+        "similarity_boost": 0.80,
+        "style": 0.20,
+        "use_speaker_boost": True,
+    },
+    "VOICE": {
+        "voice_name": "Antoni",  # alias for THE VOICE
+        "stability": 0.85,
+        "similarity_boost": 0.80,
+        "style": 0.20,
+        "use_speaker_boost": True,
+    },
+    "THE OVERSEER": {
+        "voice_name": "Antoni",  # alias — scripts use "THE OVERSEER"
+        "stability": 0.90,
+        "similarity_boost": 0.85,
+        "style": 0.15,
+        "use_speaker_boost": True,
+    },
+    # --- EP03 flashback characters ---
+    "REED": {
+        "voice_name": "Clyde",  # Meridian crew casualty
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.35,
+        "use_speaker_boost": False,
+    },
+    "CORSO": {
+        "voice_name": "George",  # Meridian crew casualty
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    "COMM VENDOR": {
+        "voice_name": "Thomas",  # Hook Market comm seller
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.35,
+        "use_speaker_boost": False,
+    },
+    # --- EP04 ---
+    "WARD CLERK": {
+        "voice_name": "Emily",  # Burn Ward intake
+        "stability": 0.75,
+        "similarity_boost": 0.75,
+        "style": 0.25,
+        "use_speaker_boost": False,
+    },
+    # --- EP05 Pit characters ---
+    "PIT REGISTRAR": {
+        "voice_name": "Harry",
+        "stability": 0.70,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    "TOWER AIDE": {
+        "voice_name": "James",
+        "stability": 0.75,
+        "similarity_boost": 0.80,
+        "style": 0.25,
+        "use_speaker_boost": False,
+    },
+    "PIT MODERATOR": {
+        "voice_name": "Roger",
+        "stability": 0.75,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": True,
+    },
+    "PIT SPECTATOR 1": {
+        "voice_name": "Clyde",
+        "stability": 0.60,
+        "similarity_boost": 0.70,
+        "style": 0.40,
+        "use_speaker_boost": False,
+    },
+    "PIT SPECTATOR 2": {
+        "voice_name": "Sarah",
+        "stability": 0.60,
+        "similarity_boost": 0.70,
+        "style": 0.40,
+        "use_speaker_boost": False,
+    },
+    "HOLT": {
+        "voice_name": "Ethan",
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.35,
+        "use_speaker_boost": False,
+    },
+    "PIT OFFICIAL": {
+        "voice_name": "Patrick",
+        "stability": 0.75,
+        "similarity_boost": 0.75,
+        "style": 0.25,
+        "use_speaker_boost": False,
+    },
+    # --- EP07 ---
+    "SECURITY CAPTAIN": {
+        "voice_name": "Harry",
+        "stability": 0.70,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    "FOREMAN GRIS": {
+        "voice_name": "George",
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.35,
+        "use_speaker_boost": False,
+    },
+    "YOUNGER WORKER": {
+        "voice_name": "Liam",
+        "stability": 0.55,
+        "similarity_boost": 0.70,
+        "style": 0.45,
+        "use_speaker_boost": False,
+    },
+    "HOOK HOARDER": {
+        "voice_name": "Arnold",
+        "stability": 0.60,
+        "similarity_boost": 0.75,
+        "style": 0.40,
+        "use_speaker_boost": False,
+    },
+    "SECURITY AGENT": {
+        "voice_name": "Ethan",
+        "stability": 0.70,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
+    # --- EP08-10 ---
+    "YOUNG AGENT": {
+        "voice_name": "Liam",
+        "stability": 0.50,
+        "similarity_boost": 0.70,
+        "style": 0.50,
+        "use_speaker_boost": False,
+    },
+    "MECHANIC": {
+        "voice_name": "Arnold",
+        "stability": 0.65,
+        "similarity_boost": 0.75,
+        "style": 0.30,
+        "use_speaker_boost": False,
+    },
 }
 
 # Parenthetical -> setting deltas
@@ -139,6 +371,18 @@ PARENTHETICAL_OVERRIDES: dict[str, dict[str, float]] = {
     "to himself": {"stability": -0.10, "style": -0.10},
     "to herself": {"stability": -0.10, "style": -0.10},
     "to no one": {"stability": -0.10, "style": -0.10},
+    "screaming": {"stability": -0.30, "style": 0.20},
+    "whispering": {"stability": -0.10, "style": -0.20},
+    "cold": {"stability": 0.15, "style": -0.15},
+    "breaking": {"stability": -0.25, "style": 0.10},
+    "flat": {"stability": 0.20, "style": -0.20},
+    "urgent": {"stability": -0.15, "style": 0.15},
+    "calm": {"stability": 0.10, "style": -0.10},
+    "wondering": {"stability": -0.10, "style": 0.05},
+    "devastated": {"stability": -0.25, "style": 0.10},
+    "rage": {"stability": -0.30, "style": 0.25},
+    "tender": {"stability": -0.05, "style": -0.10},
+    "mechanical": {"stability": 0.20, "style": -0.20},
 }
 
 # Parentheticals that should skip TTS (SFX notes)
@@ -150,17 +394,43 @@ TTS_MODEL = "eleven_multilingual_v2"
 
 
 # ---------------------------------------------------------------------------
+# Episode resolution
+# ---------------------------------------------------------------------------
+
+def resolve_episode(episode_arg: str) -> str:
+    """Normalize an episode argument to a zero-padded two-digit prefix, e.g. 'EP02'.
+
+    Accepts: '2', '02', 'EP2', 'EP02', 'ep02', etc.
+    """
+    cleaned = episode_arg.strip().upper()
+    # Strip leading 'EP' if present
+    if cleaned.startswith("EP"):
+        cleaned = cleaned[2:]
+    try:
+        num = int(cleaned)
+    except ValueError:
+        raise ValueError(
+            f"Invalid episode argument '{episode_arg}'. "
+            "Use a number like 2, 02, EP2, or EP02."
+        )
+    return f"EP{num:02d}"
+
+
+# ---------------------------------------------------------------------------
 # Script parser
 # ---------------------------------------------------------------------------
 
 def parse_script(filepath: str) -> list[DialogueLine]:
-    """Parse EP01_script.md and extract all dialogue lines.
+    """Parse a screenplay-format script markdown file and extract all dialogue lines.
 
     Screenplay format expected:
         ### SCENE N -- ...
         **CHARACTER_NAME**             or  **CHARACTER (V.O.)**
         (parenthetical)                    optional
         Dialogue text here.
+
+    The parser is episode-agnostic: it looks for ``### SCENE N`` headings and
+    works with any episode script that follows this format.
     """
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
@@ -288,7 +558,6 @@ def get_voice_config(character: str, parentheticals: list[str], client) -> Voice
     # Normalize character name for lookup
     lookup = character.upper()
     # Handle V.O. suffix already stripped by parser
-    # Handle RUTH (V.O.) -> RUTH
     lookup = re.sub(r"\s*\(V\.O\.\)", "", lookup).strip()
 
     if lookup not in CHARACTER_VOICES:
@@ -328,13 +597,14 @@ def generate_audio(
     line: DialogueLine,
     config: VoiceConfig,
     output_dir: str,
+    episode_prefix: str,
     client,
     max_retries: int = 3,
 ) -> str:
     """Generate TTS audio for a single dialogue line. Returns output filepath."""
     # Sanitize character name for filename
     char_safe = re.sub(r"[^a-zA-Z0-9]", "_", line.character)
-    filename = f"EP01_S{line.scene:02d}__{char_safe}__{line.line_num:03d}.mp3"
+    filename = f"{episode_prefix}_S{line.scene:02d}__{char_safe}__{line.line_num:03d}.mp3"
     filepath = os.path.join(output_dir, filename)
 
     for attempt in range(1, max_retries + 1):
@@ -380,8 +650,29 @@ def generate_audio(
 # ---------------------------------------------------------------------------
 
 def main():
+    _script_dir = os.path.dirname(os.path.abspath(__file__))
+
     parser = argparse.ArgumentParser(
-        description="Generate ElevenLabs TTS audio for Gas Town Chronicles EP01."
+        description="Generate ElevenLabs TTS audio for Gas Town Chronicles.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=(
+            "Examples:\n"
+            "  %(prog)s --episode 2              Generate all EP02 audio\n"
+            "  %(prog)s --episode 2 --dry-run    Preview EP02 parsing\n"
+            "  %(prog)s --episode 2 --scene 5    EP02 scene 5 only\n"
+            "  %(prog)s --list-voices            List ElevenLabs voices\n"
+            "  %(prog)s --list-characters        List configured characters\n"
+            "  %(prog)s                          Default: EP01 (backward compat)\n"
+        ),
+    )
+    parser.add_argument(
+        "--episode",
+        default=None,
+        metavar="N",
+        help=(
+            "Episode number or prefix (e.g. 2, 02, EP2, EP02). "
+            "Auto-sets --script and --output-dir. Defaults to EP01 if omitted."
+        ),
     )
     parser.add_argument(
         "--dry-run",
@@ -394,6 +685,11 @@ def main():
         help="List available ElevenLabs stock voices and exit.",
     )
     parser.add_argument(
+        "--list-characters",
+        action="store_true",
+        help="List all configured character voices and exit.",
+    )
+    parser.add_argument(
         "--scene",
         type=int,
         default=None,
@@ -401,31 +697,92 @@ def main():
     )
     parser.add_argument(
         "--script",
-        default=os.path.join(
-            os.path.dirname(__file__), "..", "scripts", "EP01_script.md"
+        default=None,
+        help=(
+            "Path to the script markdown file. "
+            "If omitted, derived from --episode (or defaults to EP01_script.md)."
         ),
-        help="Path to the EP01 script markdown file.",
     )
     parser.add_argument(
         "--output-dir",
-        default=os.path.join(os.path.dirname(__file__), "EP01"),
-        help="Output directory for generated audio files.",
+        default=None,
+        help=(
+            "Output directory for generated audio files. "
+            "If omitted, derived from --episode (or defaults to EP01/)."
+        ),
     )
     args = parser.parse_args()
 
-    # Resolve paths
-    script_path = os.path.abspath(args.script)
-    output_dir = os.path.abspath(args.output_dir)
+    # --list-characters does not need API access or a script
+    if args.list_characters:
+        print("\nConfigured character voices:\n")
+        name_width = max(len(name) for name in CHARACTER_VOICES)
+        for name, cfg in sorted(CHARACTER_VOICES.items()):
+            print(
+                f"  {name:{name_width}s}  voice={cfg['voice_name']:20s}"
+                f"  stab={cfg['stability']:.2f}  sim={cfg['similarity_boost']:.2f}"
+                f"  style={cfg['style']:.2f}  boost={cfg['use_speaker_boost']}"
+            )
+        print(f"\nTotal: {len(CHARACTER_VOICES)} characters")
+        return
 
+    # Resolve episode prefix
+    if args.episode is not None:
+        try:
+            episode_prefix = resolve_episode(args.episode)
+        except ValueError as exc:
+            print(f"ERROR: {exc}")
+            sys.exit(1)
+    else:
+        episode_prefix = "EP01"
+
+    # Derive script path and output dir from episode prefix if not explicitly set
+    default_script = os.path.join(_script_dir, "..", "scripts", f"{episode_prefix}_script.md")
+    default_output_dir = os.path.join(_script_dir, episode_prefix)
+
+    script_path = os.path.abspath(args.script if args.script is not None else default_script)
+    output_dir = os.path.abspath(args.output_dir if args.output_dir is not None else default_output_dir)
+
+    # --list-voices needs API but not a script
+    if args.list_voices:
+        load_dotenv()
+        api_key = os.getenv("ELEVENLABS_API_KEY")
+        if not api_key:
+            print(
+                "ERROR: ELEVENLABS_API_KEY not found.\n"
+                "Create a .env file with: ELEVENLABS_API_KEY=your_key_here\n"
+                "Get your key at: https://elevenlabs.io/app/developers/api-keys"
+            )
+            sys.exit(1)
+        try:
+            from elevenlabs import ElevenLabs
+        except ImportError:
+            print("ERROR: elevenlabs package not installed. Run: pip install elevenlabs>=2.15.0")
+            sys.exit(1)
+        client = ElevenLabs(api_key=api_key)
+        print("\nAvailable ElevenLabs voices:\n")
+        try:
+            result = client.voices.search()
+            for v in result.voices:
+                print(f"  {v.name:20s}  ID: {v.voice_id}")
+        except Exception as e:
+            print(f"ERROR: Could not fetch voices: {e}")
+            sys.exit(1)
+        return
+
+    # Validate script exists
     if not os.path.exists(script_path):
         print(f"ERROR: Script not found: {script_path}")
         sys.exit(1)
 
     # Parse script
-    print(f"Parsing script: {script_path}")
+    print(f"Episode:  {episode_prefix}")
+    print(f"Script:   {script_path}")
     dialogue_lines = parse_script(script_path)
-    print(f"Found {len(dialogue_lines)} dialogue lines across "
-          f"{len(set(dl.scene for dl in dialogue_lines))} scenes.")
+    print(
+        f"Parsed {len(dialogue_lines)} dialogue lines across "
+        f"{len(set(dl.scene for dl in dialogue_lines))} scenes."
+    )
 
     # Filter by scene if requested
     if args.scene is not None:
@@ -445,13 +802,15 @@ def main():
             print(f"    \"{dl.text}\"")
         print(f"\n--- Total: {len(dialogue_lines)} lines ---")
 
-        # Show character breakdown
-        chars = {}
+        # Character breakdown
+        chars: dict[str, int] = {}
         for dl in dialogue_lines:
             chars[dl.character] = chars.get(dl.character, 0) + 1
         print("\nCharacter line counts:")
         for char, count in sorted(chars.items(), key=lambda x: -x[1]):
-            print(f"  {char}: {count}")
+            configured = char.upper() in CHARACTER_VOICES
+            flag = "" if configured else "  [NO VOICE CONFIG]"
+            print(f"  {char}: {count}{flag}")
         return
 
     # Load API key
@@ -474,22 +833,10 @@ def main():
 
     client = ElevenLabs(api_key=api_key)
 
-    # List voices mode
-    if args.list_voices:
-        print("\nAvailable ElevenLabs voices:\n")
-        try:
-            result = client.voices.search()
-            for v in result.voices:
-                print(f"  {v.name:20s}  ID: {v.voice_id}")
-        except Exception as e:
-            print(f"ERROR: Could not fetch voices: {e}")
-            sys.exit(1)
-        return
-
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
-    print(f"Output directory: {output_dir}")
-    print(f"TTS model: {TTS_MODEL}")
+    print(f"Output:   {output_dir}")
+    print(f"Model:    {TTS_MODEL}")
     print()
 
     # Generate audio for each line
@@ -512,7 +859,7 @@ def main():
               f"sim={config.similarity_boost:.2f} style={config.style:.2f}")
 
         try:
-            filepath = generate_audio(dl, config, output_dir, client)
+            filepath = generate_audio(dl, config, output_dir, episode_prefix, client)
             size_kb = os.path.getsize(filepath) / 1024
             print(f"  -> {os.path.basename(filepath)} ({size_kb:.1f} KB)")
             generated += 1

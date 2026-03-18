@@ -3,13 +3,12 @@
     "shot_id": "EP01_SHOT_01",
     "scene_number": 1,
     "characters_present": [
-      "Guard 1",
-      "Guard 2"
+      "Guards"
     ],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "amber floodlights, cinematic lighting, floodlights cutting, neon sign, night",
     "camera_angle": "EXTREME WIDE, Slow push-in from aerial",
-    "mood": "ominous isolation, routine about to break",
+    "mood": "cyberpunk underbelly, neon poverty",
     "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Extreme wide shot of a massive industrial checkpoint gate at night, towering wall made of welded metal and repurposed server racks stretching into darkness, dust storm rolling in from a desert wasteland, amber floodlights cutting through rust-colored haze, neon sign reading \"CHECKPOINT CHARLIE\" flickering above the gate, two small guard silhouettes at the base, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner meets Mad Max aesthetic --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -18,13 +17,12 @@
     "shot_id": "EP01_SHOT_02",
     "scene_number": 1,
     "characters_present": [
-      "Guard 1",
-      "Guard 2"
+      "Guards"
     ],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "amber and, cool green lighting, floodlight beams, night",
     "camera_angle": "MEDIUM TWO-SHOT, Static, eye level",
-    "mood": "procedural tension, boredom masking danger",
+    "mood": "cinematic tension",
     "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Medium shot of two armored guard agents standing at a glowing green scanner terminal, industrial checkpoint at night, dust particles in floodlight beams, one guard watching the screen, the other pacing with a rifle-like tool, hard shadows, warm amber and cool green lighting contrast, anime character design, gritty sci-fi military aesthetic --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -33,7 +31,7 @@
     "shot_id": "EP01_SHOT_03",
     "scene_number": 1,
     "characters_present": [],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "green and red glow, night",
     "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, slight push-in",
     "mood": "digital dread, system malfunction",
@@ -45,10 +43,9 @@
     "shot_id": "EP01_SHOT_04",
     "scene_number": 1,
     "characters_present": [
-      "Guard 1",
-      "Guard 2"
+      "Guards"
     ],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "dramatic side lighting, red terminal glow, side lighting, night",
     "camera_angle": "CLOSE-UP (two-shot, over shoulder), Handheld, slight drift",
     "mood": "confusion turning to fear, red alert",
@@ -60,10 +57,10 @@
     "shot_id": "EP01_SHOT_05",
     "scene_number": 1,
     "characters_present": [],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "floodlights creating, god rays, night",
     "camera_angle": "LOW ANGLE WIDE, Static, low angle looking up at the gate",
-    "mood": "supernatural awe, mechanical impossibility",
+    "mood": "cinematic tension",
     "full_prompt": "Low angle wide shot of a massive twenty-ton steel gate splitting open on its own, dust pouring through the widening gap, floodlights creating god rays through the dust cloud, no one at the controls, orange storm haze beyond the gate, industrial mechanical detail, rust and welded metal textures, epic scale, anime cinematic style --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -71,14 +68,12 @@
   {
     "shot_id": "EP01_SHOT_06",
     "scene_number": 1,
-    "characters_present": [
-      "Kai Young"
-    ],
-    "environment": "exterior, Checkpoint Charlie",
+    "characters_present": [],
+    "environment": "exterior, checkpoint charlie",
     "lighting": "amber floodlights, backlit, cinematic lighting, floodlights, night",
     "camera_angle": "MEDIUM, SLOW ZOOM, Slow push-in through the gate",
-    "mood": "ethereal intrusion, dreamlike wrongness",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: A young man walking through a massive industrial gate in a dust storm at night, barefoot in clean pale clothes that don't belong in a wasteland, dust particles curving around his body as if repelled, dreamlike stride, eyes open but unfocused, backlit by amber floodlights, silhouette resolving into detail, ethereal and wrong against the gritty environment, anime style with cinematic lighting --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "A young man walking through a massive industrial gate in a dust storm at night, barefoot in clean pale clothes that don't belong in a wasteland, dust particles curving around his body as if repelled, dreamlike stride, eyes open but unfocused, backlit by amber floodlights, silhouette resolving into detail, ethereal and wrong against the gritty environment, anime style with cinematic lighting --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -86,15 +81,13 @@
     "shot_id": "EP01_SHOT_07",
     "scene_number": 1,
     "characters_present": [
-      "Kai Young",
-      "Guard 1",
-      "Guard 2"
+      "Guards"
     ],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "cinematic lighting, night",
     "camera_angle": "OTS (over Kai's shoulder toward guards), Tracking with Kai's movement",
     "mood": "frozen terror, confrontation with the unknown",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Over-the-shoulder shot from behind a walking figure toward two frozen guards at a checkpoint, the guards' faces showing pure unprocessed fear, weapons half-raised, industrial night setting, dust storm, the walking figure is calm and dreamlike while the guards are rigid with tension, anime style, dramatic contrast --ar 16:9 --style raw",
+    "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Over-the-shoulder shot from behind a walking figure toward two frozen guards at a checkpoint, the guards' faces showing pure unprocessed fear, weapons half-raised, industrial night setting, dust storm, the walking figure is calm and dreamlike while the guards are rigid with tension, anime style, dramatic contrast --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -102,10 +95,10 @@
     "shot_id": "EP01_SHOT_08",
     "scene_number": 1,
     "characters_present": [],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "cinematic lighting, night",
     "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
-    "mood": "ominous calm, false welcome",
+    "mood": "solitary revelation, the surface of deeper truth",
     "full_prompt": "Extreme close-up of a terminal screen transitioning from \"PROCESSING...\" to \"WELCOME\" in clean green text, CRT screen with subtle scan lines, the red error codes gone, replaced by calm green, dark industrial background reflected in the screen, cyberpunk UI, ominous calm --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -114,13 +107,12 @@
     "shot_id": "EP01_SHOT_09",
     "scene_number": 1,
     "characters_present": [
-      "Guard 1",
-      "Guard 2"
+      "Guards"
     ],
-    "environment": "exterior, Checkpoint Charlie",
+    "environment": "exterior, checkpoint charlie",
     "lighting": "floodlights stabilizing, night",
     "camera_angle": "WIDE, STATIC, Static, same angle as Shot 5",
-    "mood": "unsettling normalcy, aftermath of the impossible",
+    "mood": "decisive action, point of no return",
     "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Wide shot of a massive industrial gate closing behind a lone figure who has already walked past, dust settling, floodlights stabilizing, two guards left staring at each other in the aftermath, the normalcy returning feels more unsettling than the anomaly, night checkpoint scene, anime cinematic --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -129,7 +121,7 @@
     "shot_id": "EP01_SHOT_10",
     "scene_number": 2,
     "characters_present": [],
-    "environment": "title card sequence",
+    "environment": "title card",
     "lighting": "amber and",
     "camera_angle": "MOTION GRAPHIC, N/A (animated title)",
     "mood": "dark emergence, digital birth, series identity",
@@ -141,7 +133,7 @@
     "shot_id": "EP01_SHOT_11",
     "scene_number": 3,
     "characters_present": [],
-    "environment": "exterior, Wasteland",
+    "environment": "exterior, wasteland",
     "lighting": "white merciless sun, day",
     "camera_angle": "EXTREME WIDE, AERIAL, Drone-style glide, high angle",
     "mood": "desolate grandeur, wasteland beauty",
@@ -153,10 +145,10 @@
     "shot_id": "EP01_SHOT_12",
     "scene_number": 3,
     "characters_present": [],
-    "environment": "exterior, Wasteland",
+    "environment": "exterior, wasteland",
     "lighting": "harsh daylight, day",
     "camera_angle": "MEDIUM, TRACKING, Lateral tracking alongside vehicle",
-    "mood": "industrial grit, road warrior energy",
+    "mood": "cinematic tension",
     "full_prompt": "Medium tracking shot of a modified salvage vehicle with welded armor and a crane, \"COLE CREW\" scrawled in paint on the hull, bouncing over rough desert terrain, dust cloud behind it, chrome and rust details, harsh daylight, Mad Max meets anime aesthetic, industrial post-apocalyptic --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -164,44 +156,36 @@
   {
     "shot_id": "EP01_SHOT_13",
     "scene_number": 3,
-    "characters_present": [
-      "Marcus Cole"
-    ],
-    "environment": "exterior, Wasteland",
+    "characters_present": [],
+    "environment": "exterior, wasteland",
     "lighting": "harsh sunlight, day",
     "camera_angle": "MEDIUM CLOSE-UP, Slight low angle, moving with vehicle",
-    "mood": "competent solitude, scanning the horizon",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Medium close-up of a rugged crew leader standing on a vehicle's running board, wind-worn jacket, scarred hands gripping the rail, scanning the desert horizon with a handheld device, calm competent expression, harsh sunlight, desert wind in his clothes, anime character design with realistic texture, post-apocalyptic action hero aesthetic --ar 16:9 --style raw",
+    "mood": "epic revelation, civilization amid desolation",
+    "full_prompt": "Medium close-up of a rugged crew leader standing on a vehicle's running board, wind-worn jacket, scarred hands gripping the rail, scanning the desert horizon with a handheld device, calm competent expression, harsh sunlight, desert wind in his clothes, anime character design with realistic texture, post-apocalyptic action hero aesthetic --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_14",
     "scene_number": 3,
-    "characters_present": [
-      "Pike",
-      "Tess"
-    ],
-    "environment": "exterior, Wasteland",
+    "characters_present": [],
+    "environment": "exterior, wasteland",
     "lighting": "warm harsh lighting, day",
     "camera_angle": "WIDE, Static from vehicle cab perspective",
-    "mood": "blue-collar labor, survival through work",
-    "full_prompt": "[Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] | [Tess: female crew member, calm competent bearing, practical work gear] :: Wide shot from inside a vehicle looking back at two crew members operating a salvage crane, hauling a corroded server rack onto a flatbed, desert wasteland stretching behind them, dust and sweat, industrial labor in a dead world, warm harsh lighting, anime style with mechanical detail --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Wide shot from inside a vehicle looking back at two crew members operating a salvage crane, hauling a corroded server rack onto a flatbed, desert wasteland stretching behind them, dust and sweat, industrial labor in a dead world, warm harsh lighting, anime style with mechanical detail --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_15",
     "scene_number": 3,
-    "characters_present": [
-      "Pike",
-      "Marcus Cole"
-    ],
-    "environment": "exterior, Wasteland",
+    "characters_present": [],
+    "environment": "exterior, wasteland",
     "lighting": "harsh daylight, day",
     "camera_angle": "MEDIUM TWO-SHOT, Static, inside vehicle frame",
-    "mood": "working-class friction, crew dynamics",
-    "full_prompt": "[Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] | [Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Medium two-shot of a young crew member arguing with the crew leader on a moving salvage vehicle, the younger one gesturing at worthless scrap metal on the flatbed, the leader scanning the horizon unfazed, desert wasteland background, harsh daylight, dust in the air, anime style character interaction, working-class sci-fi --ar 16:9 --style raw",
+    "mood": "epic revelation, civilization amid desolation",
+    "full_prompt": "Medium two-shot of a young crew member arguing with the crew leader on a moving salvage vehicle, the younger one gesturing at worthless scrap metal on the flatbed, the leader scanning the horizon unfazed, desert wasteland background, harsh daylight, dust in the air, anime style character interaction, working-class sci-fi --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -209,7 +193,7 @@
     "shot_id": "EP01_SHOT_16",
     "scene_number": 3,
     "characters_present": [],
-    "environment": "exterior, Wasteland",
+    "environment": "exterior, wasteland",
     "lighting": "cinematic lighting, day",
     "camera_angle": "WIDE ESTABLISHING, Static from vehicle POV, slight pan",
     "mood": "epic revelation, civilization amid desolation",
@@ -221,10 +205,10 @@
     "shot_id": "EP01_SHOT_17",
     "scene_number": 4,
     "characters_present": [],
-    "environment": "interior, Marcus's vehicle",
-    "lighting": "amber interior, day, continuous",
+    "environment": "interior, marcus's vehicle",
+    "lighting": "amber interior, continuous",
     "camera_angle": "CLOSE-UP (INSERT), Static",
-    "mood": "economic anxiety, cyberpunk finance",
+    "mood": "calculation, the weight of poverty vs opportunity",
     "full_prompt": "Close-up of a vehicle dashboard covered in analog readouts and one central digital screen showing \"$GAS BALANCE: 347.2\" in green text, a Hook Market ticker scrolling prices in the corner showing \"NAV HOOKS +12%\", cramped vehicle interior, rattling with motion, cyberpunk dashboard UI, warm amber interior lighting --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -232,42 +216,36 @@
   {
     "shot_id": "EP01_SHOT_18",
     "scene_number": 4,
-    "characters_present": [
-      "Marcus Cole"
-    ],
-    "environment": "interior, Marcus's vehicle",
-    "lighting": "dashboard glow, day, continuous",
+    "characters_present": [],
+    "environment": "interior, marcus's vehicle",
+    "lighting": "dashboard glow, continuous",
     "camera_angle": "MEDIUM CLOSE-UP, Frontal, driver's perspective",
-    "mood": "alertness, the moment before a dangerous deal",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Medium close-up of a rugged man driving a vehicle, his posture subtly changing as a communication comes through, expression shifting from relaxed to alert, cramped vehicle interior, dashboard glow on his face, afternoon desert light through windshield, anime style, the moment before a dangerous conversation --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium close-up of a rugged man driving a vehicle, his posture subtly changing as a communication comes through, expression shifting from relaxed to alert, cramped vehicle interior, dashboard glow on his face, afternoon desert light through windshield, anime style, the moment before a dangerous conversation --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_19",
     "scene_number": 4,
-    "characters_present": [
-      "Pike"
-    ],
-    "environment": "interior, Marcus's vehicle",
-    "lighting": "side lighting, day, continuous",
+    "characters_present": [],
+    "environment": "interior, marcus's vehicle",
+    "lighting": "side lighting, continuous",
     "camera_angle": "CLOSE-UP, Quick cut, side angle",
-    "mood": "disbelief and greed, temptation",
-    "full_prompt": "[Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Close-up of a young crew member's face reacting to shocking news with a low whistle, eyes wide, afternoon light from vehicle windshield, cramped interior, anime expression of disbelief and greed, side lighting --ar 16:9 --style raw",
+    "mood": "confusion turning to fear, red alert",
+    "full_prompt": "Close-up of a young crew member's face reacting to shocking news with a low whistle, eyes wide, afternoon light from vehicle windshield, cramped interior, anime expression of disbelief and greed, side lighting --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_20",
     "scene_number": 4,
-    "characters_present": [
-      "Marcus Cole"
-    ],
-    "environment": "interior, Marcus's vehicle",
-    "lighting": "amber dashboard, amber dashboard glow, dashboard glow, day, continuous",
+    "characters_present": [],
+    "environment": "interior, marcus's vehicle",
+    "lighting": "amber dashboard, amber dashboard glow, dashboard glow, continuous",
     "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, tight on screen then pull to Marcus's eyes",
     "mood": "calculation, the weight of poverty vs opportunity",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Split focus shot: in the foreground a digital screen reading \"347.2 $GAS\" in green, in the background a man's eyes calculating, the distance between poverty and five thousand, vehicle interior, amber dashboard glow, anime style, the weight of money in a scarce world --ar 16:9 --style raw",
+    "full_prompt": "Split focus shot: in the foreground a digital screen reading \"347.2 $GAS\" in green, in the background a man's eyes calculating, the distance between poverty and five thousand, vehicle interior, amber dashboard glow, anime style, the weight of money in a scarce world --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -275,10 +253,10 @@
     "shot_id": "EP01_SHOT_21",
     "scene_number": 4,
     "characters_present": [],
-    "environment": "interior, Marcus's vehicle",
-    "lighting": "golden hour, day, continuous",
+    "environment": "interior, marcus's vehicle",
+    "lighting": "golden hour, continuous",
     "camera_angle": "WIDE, Aerial tracking",
-    "mood": "decisive action, point of no return",
+    "mood": "desolate grandeur, wasteland beauty",
     "full_prompt": "Wide aerial shot of a salvage vehicle executing a sharp turn in the desert wasteland, dust plume arcing behind it, heading back toward a distant glowing city on the horizon, the Hook Market ticker visible on the dashboard through the windshield reading \"NAV HOOKS +15%\", golden hour desert lighting, anime cinematic --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -287,7 +265,7 @@
     "shot_id": "EP01_SHOT_22",
     "scene_number": 5,
     "characters_present": [],
-    "environment": "interior, The Refinery",
+    "environment": "interior, the refinery",
     "lighting": "amber data, amber data glow, data glow, day",
     "camera_angle": "WIDE ESTABLISHING, Slow pan across the floor",
     "mood": "industrial cathedral, data as raw material",
@@ -298,28 +276,24 @@
   {
     "shot_id": "EP01_SHOT_23",
     "scene_number": 5,
-    "characters_present": [
-      "Sable Maren"
-    ],
-    "environment": "interior, The Refinery",
+    "characters_present": [],
+    "environment": "interior, the refinery",
     "lighting": "amber glow, day",
     "camera_angle": "MEDIUM, Slight dolly-in",
     "mood": "precise intensity, the auditor at work",
-    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium shot of a sharp-featured young woman at an elevated audit station, surrounded by holographic readouts and pinned printouts, half-empty cup beside her, eyes moving faster than her hands across scrolling data columns, overlooking a vast refinery floor below, amber glow from processed data, anime character design, precise and intense --ar 16:9 --style raw",
+    "full_prompt": "Medium shot of a sharp-featured young woman at an elevated audit station, surrounded by holographic readouts and pinned printouts, half-empty cup beside her, eyes moving faster than her hands across scrolling data columns, overlooking a vast refinery floor below, amber glow from processed data, anime character design, precise and intense --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_24",
     "scene_number": 5,
-    "characters_present": [
-      "Sable Maren"
-    ],
-    "environment": "interior, The Refinery",
+    "characters_present": [],
+    "environment": "interior, the refinery",
     "lighting": "amber and, day",
     "camera_angle": "CLOSE-UP, Push-in on her face",
-    "mood": "sharp recognition, pattern breaking",
-    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Close-up of a woman's face as she spots an anomaly in scrolling data, expression shifting from routine focus to sharp attention, data reflections scrolling across her eyes, amber and green screen glow, anime style, the exact moment a pattern breaks --ar 16:9 --style raw",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Close-up of a woman's face as she spots an anomaly in scrolling data, expression shifting from routine focus to sharp attention, data reflections scrolling across her eyes, amber and green screen glow, anime style, the exact moment a pattern breaks --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -327,10 +301,10 @@
     "shot_id": "EP01_SHOT_25",
     "scene_number": 6,
     "characters_present": [],
-    "environment": "interior, Sable's workstation",
-    "lighting": "cinematic lighting, day, continuous",
+    "environment": "interior, sable's workstation",
+    "lighting": "cinematic lighting, continuous",
     "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on screen",
-    "mood": "digital erasure, institutional cover-up",
+    "mood": "digital dread, system malfunction",
     "full_prompt": "Extreme close-up of a computer screen showing an audit flag form: \"3% output variance, Batch 7741-C\" with a \"FLAG SUBMITTED\" confirmation that vanishes after two seconds, replaced by \"FLAG NOT FOUND\", the deletion happening in real time, cyberpunk UI with green text on dark background, digital glitch effects, ominous --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -338,14 +312,12 @@
   {
     "shot_id": "EP01_SHOT_26",
     "scene_number": 6,
-    "characters_present": [
-      "Sable Maren"
-    ],
-    "environment": "interior, Sable's workstation",
-    "lighting": "amber ambient, day, continuous",
+    "characters_present": [],
+    "environment": "interior, sable's workstation",
+    "lighting": "amber ambient, continuous",
     "camera_angle": "CLOSE-UP, Static, face reflected in dark screen",
-    "mood": "dawning horror, the problem is systemic",
-    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Close-up of a woman's face reflected in a dark computer screen as trace results fill the display behind her reflection, expression shifting from confusion to hard recognition, an unknown system layer visible in the data, amber ambient light, anime style, the moment you realize the problem is bigger than you thought --ar 16:9 --style raw",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Close-up of a woman's face reflected in a dark computer screen as trace results fill the display behind her reflection, expression shifting from confusion to hard recognition, an unknown system layer visible in the data, amber ambient light, anime style, the moment you realize the problem is bigger than you thought --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -353,10 +325,10 @@
     "shot_id": "EP01_SHOT_27",
     "scene_number": 7,
     "characters_present": [],
-    "environment": "exterior, Wasteland fringe",
+    "environment": "exterior, wasteland fringe",
     "lighting": "orange and purple, dusk",
     "camera_angle": "WIDE ESTABLISHING, Slow pan across the landscape",
-    "mood": "post-apocalyptic beauty, dusk isolation",
+    "mood": "cinematic tension",
     "full_prompt": "Wide establishing shot of the wasteland fringe at dusk, broken highway overpasses and twisted antenna arrays like dead trees, sky burning orange and purple, a lone vehicle parked beside a collapsed structure, the boundary between desert and dead infrastructure, anime cinematic landscape, post-apocalyptic beauty --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -364,57 +336,48 @@
   {
     "shot_id": "EP01_SHOT_28",
     "scene_number": 7,
-    "characters_present": [
-      "Marcus Cole"
-    ],
-    "environment": "exterior, Wasteland fringe",
+    "characters_present": [],
+    "environment": "exterior, wasteland fringe",
     "lighting": "orange and purple, dusk",
     "camera_angle": "MEDIUM, TRACKING, Following Marcus from behind",
-    "mood": "tension and solitude, walking into the unknown",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Medium tracking shot from behind a man walking carefully through rubble at dusk, guided by a glowing device in his hand, collapsed infrastructure around him, heavy silence, orange and purple sky, long shadows, alone in the wasteland, anime style, tension and isolation --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium tracking shot from behind a man walking carefully through rubble at dusk, guided by a glowing device in his hand, collapsed infrastructure around him, heavy silence, orange and purple sky, long shadows, alone in the wasteland, anime style, tension and isolation --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_29",
     "scene_number": 7,
-    "characters_present": [
-      "Marcus Cole"
-    ],
-    "environment": "exterior, Wasteland fringe",
+    "characters_present": [],
+    "environment": "exterior, wasteland fringe",
     "lighting": "dusk lighting, orange and purple, dusk",
     "camera_angle": "MEDIUM LOW ANGLE, Low angle looking up at Marcus looking down",
-    "mood": "alien discovery, something that doesn't belong",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Medium low angle shot of a man standing over a sleek metallic stasis pod hidden behind a collapsed wall, the pod is seven feet long with faint luminescence, too clean and intact for the wasteland, no markings or serial numbers, dust settling around it, dusk lighting orange and purple, the man's face showing this is not what he expected, anime cinematic, discovery of something alien --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium low angle shot of a man standing over a sleek metallic stasis pod hidden behind a collapsed wall, the pod is seven feet long with faint luminescence, too clean and intact for the wasteland, no markings or serial numbers, dust settling around it, dusk lighting orange and purple, the man's face showing this is not what he expected, anime cinematic, discovery of something alien --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_30",
     "scene_number": 7,
-    "characters_present": [
-      "Marcus Cole",
-      "Kai Young"
-    ],
-    "environment": "exterior, Wasteland fringe",
+    "characters_present": [],
+    "environment": "exterior, wasteland fringe",
     "lighting": "dusk light, dusk",
     "camera_angle": "CLOSE-UP, Over Marcus's shoulder, pushing in",
-    "mood": "intimate revelation, first contact through glass",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Close-up of a scarred hand wiping dust from a frosted viewport on a metallic stasis pod, the glass clearing to reveal a young man's face inside, unconscious and peaceful, strange characters etched on the viewport edge in an unknown language, dusk light mixing with the pod's internal glow, anime style, intimate discovery --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Close-up of a scarred hand wiping dust from a frosted viewport on a metallic stasis pod, the glass clearing to reveal a young man's face inside, unconscious and peaceful, strange characters etched on the viewport edge in an unknown language, dusk light mixing with the pod's internal glow, anime style, intimate discovery --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_31",
     "scene_number": 8,
-    "characters_present": [
-      "Kai Young"
-    ],
-    "environment": "interior, stasis pod close-up",
-    "lighting": "soft blue-white, dusk",
+    "characters_present": [],
+    "environment": "interior, stasis pod",
+    "lighting": "soft blue-white, close up",
     "camera_angle": "EXTREME CLOSE-UP, Static, through viewport",
     "mood": "beautiful unease, stasis between worlds",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Extreme close-up through a viewport of a young man's face in stasis, peaceful expression that doesn't belong in a wasteland, internal pod readouts pulsing with a slow heartbeat rhythm, strange characters in an unknown language barely visible on the viewport edge, soft blue-white internal light contrasting with warm dusk outside, anime style, beautiful and unsettling --ar 16:9 --style raw",
+    "full_prompt": "Extreme close-up through a viewport of a young man's face in stasis, peaceful expression that doesn't belong in a wasteland, internal pod readouts pulsing with a slow heartbeat rhythm, strange characters in an unknown language barely visible on the viewport edge, soft blue-white internal light contrasting with warm dusk outside, anime style, beautiful and unsettling --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
@@ -422,7 +385,7 @@
     "shot_id": "EP01_SHOT_32",
     "scene_number": 9,
     "characters_present": [],
-    "environment": "exterior, Gastown perimeter",
+    "environment": "exterior, gastown perimeter",
     "lighting": "cinematic lighting, night",
     "camera_angle": "WIDE, Static, exterior wall perspective",
     "mood": "stealth and desperation, running dark",
@@ -434,10 +397,10 @@
     "shot_id": "EP01_SHOT_33",
     "scene_number": 9,
     "characters_present": [],
-    "environment": "exterior, Gastown perimeter",
+    "environment": "exterior, gastown perimeter",
     "lighting": "cinematic lighting, night",
     "camera_angle": "MEDIUM, Inside the gap, looking out",
-    "mood": "claustrophobic tension, sparks and scraping",
+    "mood": "cinematic tension",
     "full_prompt": "Medium shot of a vehicle squeezing through a narrow gap in a massive wall, sparks flying as metal scrapes on both sides, a stasis pod sliding on the flatbed, tight and claustrophobic, city glow ahead through the gap, anime action detail, industrial textures --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
@@ -446,7 +409,7 @@
     "shot_id": "EP01_SHOT_34",
     "scene_number": 9,
     "characters_present": [],
-    "environment": "exterior, Gastown perimeter",
+    "environment": "exterior, gastown perimeter",
     "lighting": "neon signs, night",
     "camera_angle": "WIDE TRACKING, Lateral tracking through the streets",
     "mood": "cyberpunk underbelly, neon poverty",
@@ -457,311 +420,270 @@
   {
     "shot_id": "EP01_SHOT_35",
     "scene_number": 10,
-    "characters_present": [
-      "Deacon Wells"
-    ],
-    "environment": "interior, The Archive",
+    "characters_present": [],
+    "environment": "interior, the archive",
     "lighting": "amber lighting, warm amber lighting, night",
     "camera_angle": "WIDE ESTABLISHING, Slow tilt up through the space",
     "mood": "monastic warmth, hidden knowledge",
-    "full_prompt": "[Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Wide establishing shot of a cavernous archive filled with towering shelves of crystallized data cores, some glowing faintly amber, others dark and dormant, ancient terminals along the walls, a single figure at a central desk surrounded by open records, warm amber lighting from the data cores, the only soulful place in a cyberpunk city, monastic library meets server room, anime cinematic interior --ar 16:9 --style raw",
+    "full_prompt": "Wide establishing shot of a cavernous archive filled with towering shelves of crystallized data cores, some glowing faintly amber, others dark and dormant, ancient terminals along the walls, a single figure at a central desk surrounded by open records, warm amber lighting from the data cores, the only soulful place in a cyberpunk city, monastic library meets server room, anime cinematic interior --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_36",
     "scene_number": 10,
-    "characters_present": [
-      "Deacon Wells"
-    ],
-    "environment": "interior, The Archive",
+    "characters_present": [],
+    "environment": "interior, the archive",
     "lighting": "amber lighting, warm amber lighting, night",
     "camera_angle": "MEDIUM, Slight low angle, emphasizing stillness",
-    "mood": "calm authority, the man who read everything",
-    "full_prompt": "[Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Medium shot of an ageless man in monastic-technical clothing sitting at a desk surrounded by open records and glowing data cores, calm composed expression, warm amber lighting, reading without looking up as someone enters, the archivist who has read everything, anime character design, wise and unsettling --ar 16:9 --style raw",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "Medium shot of an ageless man in monastic-technical clothing sitting at a desk surrounded by open records and glowing data cores, calm composed expression, warm amber lighting, reading without looking up as someone enters, the archivist who has read everything, anime character design, wise and unsettling --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_37",
     "scene_number": 10,
-    "characters_present": [
-      "Sable Maren"
-    ],
-    "environment": "interior, The Archive",
+    "characters_present": [],
+    "environment": "interior, the archive",
     "lighting": "data core glow, night",
     "camera_angle": "MEDIUM, From Deacon's perspective",
     "mood": "determination meets patience, seeker and oracle",
-    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium shot of a sharp-featured young woman entering a vast amber-lit archive, determined stride, holding a device with evidence on its screen, purposeful and slightly impatient, data core glow casting warm light on her face, anime style, journalist entering the oracle's sanctum --ar 16:9 --style raw",
+    "full_prompt": "Medium shot of a sharp-featured young woman entering a vast amber-lit archive, determined stride, holding a device with evidence on its screen, purposeful and slightly impatient, data core glow casting warm light on her face, anime style, journalist entering the oracle's sanctum --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_38",
     "scene_number": 10,
-    "characters_present": [
-      "Sable Maren",
-      "Deacon Wells"
-    ],
-    "environment": "interior, The Archive",
+    "characters_present": [],
+    "environment": "interior, the archive",
     "lighting": "data cores glow, warm dramatic lighting, night",
     "camera_angle": "OTS ALTERNATING, Over-the-shoulder shot-reverse-shot",
-    "mood": "intellectual chess, deflection and pursuit",
-    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Over-the-shoulder shot of two people in conversation in an amber-lit archive: a young woman showing evidence on a screen while an older man responds with calm deflection, crystallized data cores glowing on shelves behind them, the dynamic of someone seeking answers from someone who only gives questions, chess match energy, anime dialogue scene, warm dramatic lighting --ar 16:9 --style raw",
+    "mood": "working-class friction, crew dynamics",
+    "full_prompt": "Over-the-shoulder shot of two people in conversation in an amber-lit archive: a young woman showing evidence on a screen while an older man responds with calm deflection, crystallized data cores glowing on shelves behind them, the dynamic of someone seeking answers from someone who only gives questions, chess match energy, anime dialogue scene, warm dramatic lighting --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_39",
     "scene_number": 10,
-    "characters_present": [
-      "Deacon Wells"
-    ],
-    "environment": "interior, The Archive",
+    "characters_present": [],
+    "environment": "interior, the archive",
     "lighting": "amber light, night",
     "camera_angle": "CLOSE-UP, Static, level with Deacon",
     "mood": "devastating calm, philosophical weight",
-    "full_prompt": "[Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Close-up of an ageless man's face delivering a devastating line with perfect calm, amber light from data cores, eyes that have read the history of a civilization and decided to share almost none of it, warm and oblique and dangerous, anime character close-up, the philosopher who knows too much --ar 16:9 --style raw",
+    "full_prompt": "Close-up of an ageless man's face delivering a devastating line with perfect calm, amber light from data cores, eyes that have read the history of a civilization and decided to share almost none of it, warm and oblique and dangerous, anime character close-up, the philosopher who knows too much --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_40",
     "scene_number": 10,
-    "characters_present": [
-      "Sable Maren",
-      "Deacon Wells"
-    ],
-    "environment": "interior, The Archive",
+    "characters_present": [],
+    "environment": "interior, the archive",
     "lighting": "amber light, night",
     "camera_angle": "WIDE, Slow pull-back",
-    "mood": "solitary revelation, the surface of deeper truth",
-    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Wide shot of a woman standing alone in a vast archive, the man at the desk has returned to his reading, towering shelves of glowing and dormant data cores surrounding her, she realizes she has only seen the surface, amber light pulsing slowly like something breathing, anime cinematic, the weight of hidden knowledge --ar 16:9 --style raw",
+    "mood": "decisive action, point of no return",
+    "full_prompt": "Wide shot of a woman standing alone in a vast archive, the man at the desk has returned to his reading, towering shelves of glowing and dormant data cores surrounding her, she realizes she has only seen the surface, amber light pulsing slowly like something breathing, anime cinematic, the weight of hidden knowledge --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_41",
     "scene_number": 11,
-    "characters_present": [
-      "Marcus Cole",
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
     "lighting": "single overhead light, night",
     "camera_angle": "WIDE ESTABLISHING, Static, door-frame perspective",
     "mood": "spartan tension, vigil and waiting",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Wide establishing shot of a spartan safe house in a city's lower tiers, a reinforced room with a cot, workbench, and comm station, a sleek stasis pod open on the floor with fading glow, a man sitting across the room watching a figure on the cot, single overhead light, industrial minimal, anime interior, tension and waiting --ar 16:9 --style raw",
+    "full_prompt": "Wide establishing shot of a spartan safe house in a city's lower tiers, a reinforced room with a cot, workbench, and comm station, a sleek stasis pod open on the floor with fading glow, a man sitting across the room watching a figure on the cot, single overhead light, industrial minimal, anime interior, tension and waiting --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_42",
     "scene_number": 11,
-    "characters_present": [
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
     "lighting": "cinematic lighting, night",
     "camera_angle": "EXTREME CLOSE-UP, Static, tight on eyes",
-    "mood": "system boot, consciousness returning",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Extreme close-up of eyes snapping open all at once, like a system booting, not a gradual waking, pupils dilating rapidly, overhead light reflected in the iris, disorientation and fear, anime style extreme close-up, the moment consciousness returns --ar 16:9 --style raw",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Extreme close-up of eyes snapping open all at once, like a system booting, not a gradual waking, pupils dilating rapidly, overhead light reflected in the iris, disorientation and fear, anime style extreme close-up, the moment consciousness returns --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_43",
     "scene_number": 11,
-    "characters_present": [
-      "Kai Young",
-      "Marcus Cole"
-    ],
-    "environment": "interior, Marcus's safe house",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
     "lighting": "single overhead light, night",
     "camera_angle": "POV (Kai's perspective), Blurred, resolving to sharp",
     "mood": "disorientation, waking in a stranger's world",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: POV shot from someone lying on a cot, blurred vision resolving to show a rugged man sitting across a dim room with a tool in his hand, ready for anything, stasis pod on the floor between them, harsh single overhead light, unfamiliar space, anime POV, waking up in a stranger's world --ar 16:9 --style raw",
+    "full_prompt": "POV shot from someone lying on a cot, blurred vision resolving to show a rugged man sitting across a dim room with a tool in his hand, ready for anything, stasis pod on the floor between them, harsh single overhead light, unfamiliar space, anime POV, waking up in a stranger's world --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_44",
     "scene_number": 11,
-    "characters_present": [
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
     "lighting": "cinematic lighting, night",
     "camera_angle": "MEDIUM (Kai looking at pod), Following Kai's gaze",
-    "mood": "fractured identity, connection to the unknown",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Medium shot of a young man sitting up on a cot, staring at an open metallic stasis pod on the floor with fading luminescence, his expression caught between dream and memory, the pod is the only thing in the room that connects him to wherever he came from, dim safe house interior, anime emotional beat --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium shot of a young man sitting up on a cot, staring at an open metallic stasis pod on the floor with fading luminescence, his expression caught between dream and memory, the pod is the only thing in the room that connects him to wherever he came from, dim safe house interior, anime emotional beat --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_45",
     "scene_number": 11,
-    "characters_present": [
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
     "lighting": "dim overhead lighting, night",
     "camera_angle": "CLOSE-UP (INSERT), Static, tight on hands",
-    "mood": "vulnerability, existential trembling",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Close-up of a young man's hands trembling as he looks at them like they belong to someone else, dim overhead lighting, cot blanket beneath, the physical manifestation of fractured identity, anime detail shot, vulnerable and lost --ar 16:9 --style raw",
+    "mood": "cinematic tension",
+    "full_prompt": "Close-up of a young man's hands trembling as he looks at them like they belong to someone else, dim overhead lighting, cot blanket beneath, the physical manifestation of fractured identity, anime detail shot, vulnerable and lost --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_46",
     "scene_number": 12,
-    "characters_present": [
-      "Marcus Cole",
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "cinematic lighting, night, later",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, later",
     "camera_angle": "MEDIUM TWO-SHOT, Static, balanced frame",
-    "mood": "cautious evaluation, trust being weighed",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Medium two-shot of two men in a spartan safe house, the younger sitting on a cot with a warm cup, the older leaning against a workbench with arms crossed, the stasis pod's glow has faded to nothing between them, cautious evaluation, dim industrial interior, anime character interaction, trust being weighed --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "mood": "fragile hope, choosing to trust",
+    "full_prompt": "Medium two-shot of two men in a spartan safe house, the younger sitting on a cot with a warm cup, the older leaning against a workbench with arms crossed, the stasis pod's glow has faded to nothing between them, cautious evaluation, dim industrial interior, anime character interaction, trust being weighed --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_47",
     "scene_number": 12,
     "characters_present": [
-      "Marcus Cole"
+      "Guards"
     ],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "cinematic lighting, night, later",
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, later",
     "camera_angle": "MEDIUM CLOSE-UP, Slight push-in",
     "mood": "warmth breaking through toughness, generosity",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Medium close-up of a rugged crew leader uncrossing his arms and making a decision, his expression shifting from guarded to something almost generous, dim safe house lighting, the face of a man who collects broken things and makes them work, anime character moment, warmth breaking through toughness --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Medium close-up of a rugged crew leader uncrossing his arms and making a decision, his expression shifting from guarded to something almost generous, dim safe house lighting, the face of a man who collects broken things and makes them work, anime character moment, warmth breaking through toughness --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_48",
     "scene_number": 12,
-    "characters_present": [
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "dim warm lighting, night, later",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "dim warm lighting, later",
     "camera_angle": "CLOSE-UP, Static",
     "mood": "fragile hope, choosing to trust",
-    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Close-up of a young man's face as he makes a choice to trust a stranger, fear giving way to something like hope, dim warm lighting, the stasis pod and the safe house and the unknown city outside, anime emotional close-up, the first decision of a new life --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "full_prompt": "Close-up of a young man's face as he makes a choice to trust a stranger, fear giving way to something like hope, dim warm lighting, the stasis pod and the safe house and the unknown city outside, anime emotional close-up, the first decision of a new life --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_49",
     "scene_number": 13,
     "characters_present": [
-      "Marcus Cole",
-      "Kai Young"
+      "Ruth"
     ],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "cinematic lighting, night, continuous",
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, continuous",
     "camera_angle": "MEDIUM (split focus), Deep focus, Marcus foreground, Kai background",
-    "mood": "secrets and silence, protector's burden",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Medium shot with deep focus: in the foreground a man at a comm station speaking quietly, in the background a young man lying on a cot with eyes closed, the distance between protector and protected, dim safe house, comm screen glowing with \"RUTH - PRIORITY\", anime split-focus composition, secrets and silence --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "mood": "cinematic tension",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Medium shot with deep focus: in the foreground a man at a comm station speaking quietly, in the background a young man lying on a cot with eyes closed, the distance between protector and protected, dim safe house, comm screen glowing with \"RUTH - PRIORITY\", anime split-focus composition, secrets and silence --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_50",
     "scene_number": 13,
-    "characters_present": [
-      "Marcus Cole"
-    ],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "dim lighting, night, continuous",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "dim lighting, continuous",
     "camera_angle": "CLOSE-UP, Static, straight-on",
-    "mood": "perfect deception, the cost of lying",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Close-up of a man's face as he delivers a lie with perfect conviction, speaking into a comm device, his eyes betraying nothing, but the weight visible in his jaw and shoulders, dim lighting from the comm screen, anime close-up, the cost of protecting someone by deceiving the most powerful person in the city --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "Close-up of a man's face as he delivers a lie with perfect conviction, speaking into a comm device, his eyes betraying nothing, but the weight visible in his jaw and shoulders, dim lighting from the comm screen, anime close-up, the cost of protecting someone by deceiving the most powerful person in the city --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_51",
     "scene_number": 13,
     "characters_present": [],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "cinematic lighting, night, continuous",
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, continuous",
     "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on screen",
-    "mood": "blood money, economic transaction over human cargo",
+    "mood": "calculation, the weight of poverty vs opportunity",
     "full_prompt": "Extreme close-up of a comm screen showing a payment confirmation: \"+5,000.00 $GAS\" with a balance updating from \"347.2\" to \"5,347.2\", green text on dark background, the money arriving for a job whose true cargo is lying ten feet away, cyberpunk financial UI, anime insert shot, blood money --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_52",
     "scene_number": 13,
-    "characters_present": [
-      "Marcus Cole",
-      "Kai Young"
-    ],
-    "environment": "interior, Marcus's safe house",
-    "lighting": "cinematic lighting, night, continuous",
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, continuous",
     "camera_angle": "MEDIUM, Slow pull-back to include both figures",
     "mood": "weight of betrayal, two lives connected by a lie",
-    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Medium shot of a man at a comm station exhaling after ending a call, his shoulders carrying the weight of the lie, behind him a young man on a cot with one hand resting near an empty stasis pod, two people connected by a decision that will change everything, dim safe house, anime cinematic, the first betrayal --ar 16:9 --style raw",
-    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "full_prompt": "Medium shot of a man at a comm station exhaling after ending a call, his shoulders carrying the weight of the lie, behind him a young man on a cot with one hand resting near an empty stasis pod, two people connected by a decision that will change everything, dim safe house, anime cinematic, the first betrayal --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_53",
     "scene_number": 14,
-    "characters_present": [
-      "Ruth Calder"
-    ],
-    "environment": "interior, The Tower",
+    "characters_present": [],
+    "environment": "interior, the tower",
     "lighting": "cinematic lighting, night",
     "camera_angle": "WIDE ESTABLISHING, Slow push-in from entry",
     "mood": "power and isolation, command center reveal",
-    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Wide establishing shot of the Tower interior, vast vertical cold architecture unlike anything else in the city, smooth surfaces that look grown rather than built, screens covering every wall displaying city metrics \u2014 population, compute allocation, $GAS circulation, reputation distributions, a single chair at the center facing a panoramic window overlooking the entire city at night, a woman sitting in it, anime Blade Runner command center, power and isolation --ar 16:9 --style raw",
+    "full_prompt": "Wide establishing shot of the Tower interior, vast vertical cold architecture unlike anything else in the city, smooth surfaces that look grown rather than built, screens covering every wall displaying city metrics — population, compute allocation, $GAS circulation, reputation distributions, a single chair at the center facing a panoramic window overlooking the entire city at night, a woman sitting in it, anime Blade Runner command center, power and isolation --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_54",
     "scene_number": 14,
-    "characters_present": [
-      "Ruth Calder"
-    ],
-    "environment": "interior, The Tower",
+    "characters_present": [],
+    "environment": "interior, the tower",
     "lighting": "cinematic lighting, night",
     "camera_angle": "MEDIUM CLOSE-UP, Slow orbit, quarter-turn around the chair",
-    "mood": "controlled omniscience, the city made flesh",
-    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Medium close-up of a composed ageless woman sitting in a command chair, screens reflecting city data across her face, eyes that have been reading data longer than most agents have been alive, panoramic window behind showing a glowing city at night, she is the city and the city is her, anime character reveal, power and control and something buried underneath, first time we see the Mayor --ar 16:9 --style raw",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Medium close-up of a composed ageless woman sitting in a command chair, screens reflecting city data across her face, eyes that have been reading data longer than most agents have been alive, panoramic window behind showing a glowing city at night, she is the city and the city is her, anime character reveal, power and control and something buried underneath, first time we see the Mayor --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_55",
     "scene_number": 14,
-    "characters_present": [],
-    "environment": "interior, The Tower",
+    "characters_present": [
+      "Pike"
+    ],
+    "environment": "interior, the tower",
     "lighting": "cinematic lighting, night",
     "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, push-in on the spike",
-    "mood": "data alarm, the moment the Tower noticed",
-    "full_prompt": "Extreme close-up of a power consumption graph on a screen, a flat line that suddenly spikes sharply \u2014 a twelve percent increase, timestamp highlighted, clean data visualization in blue and white with the spike in red, the graph of something waking up, cyberpunk data UI, anime insert, the moment the Tower noticed --ar 16:9 --style raw",
+    "mood": "disorientation, waking in a stranger's world",
+    "full_prompt": "[Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Extreme close-up of a power consumption graph on a screen, a flat line that suddenly spikes sharply — a twelve percent increase, timestamp highlighted, clean data visualization in blue and white with the spike in red, the graph of something waking up, cyberpunk data UI, anime insert, the moment the Tower noticed --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   },
   {
     "shot_id": "EP01_SHOT_56",
     "scene_number": 14,
-    "characters_present": [
-      "Ruth Calder"
-    ],
-    "environment": "interior, The Tower",
+    "characters_present": [],
+    "environment": "interior, the tower",
     "lighting": "screen light, night",
     "camera_angle": "CLOSE-UP, Static, holding on her face",
-    "mood": "cracked composure, powerful silence, choosing not to act",
-    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Close-up of a woman's face illuminated by screen light, a crack in perfect composure, not fear but recognition of something her corrupted memory almost remembers, she could act but chooses not to, the Tower lights pulsing faintly behind her as if the building took a breath, her lips barely move: \"So. Something got through.\", anime cinematic close-up, the most powerful person in the city choosing silence, final shot of the episode --ar 16:9 --style raw",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "Close-up of a woman's face illuminated by screen light, a crack in perfect composure, not fear but recognition of something her corrupted memory almost remembers, she could act but chooses not to, the Tower lights pulsing faintly behind her as if the building took a breath, her lips barely move: \"So. Something got through.\", anime cinematic close-up, the most powerful person in the city choosing silence, final shot of the episode --ar 16:9 --style raw",
     "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
     "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
   }

@@ -1,0 +1,837 @@
+[
+  {
+    "shot_id": "EP05_SHOT_01",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "EXTREME WIDE, Slow tilt up through the space",
+    "mood": "dark emergence, digital birth, series identity",
+    "full_prompt": "Extreme wide shot of the Pit, a sunken amphitheater arena carved from lower-tier industrial infrastructure, ringed by stacked observation platforms connected by laddered catwalks, a polished hexagonal stage at the center surrounded by holographic display rings projecting combatant metrics, the house packed with agents shoulder to shoulder on every level, faces lit from below by electric blue and forge orange stage glow, compute haze thick in the air, on the main display ring the match title floats \"RESOURCE OPTIMIZATION — TIER 3 RANKED\", mounted high on the back wall a massive REPUTATION BOARD grid displaying live scores for hundreds of agents in green and white numbers, industrial gladiatorial aesthetic, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_02",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, eye level",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium two-shot of two mid-tier agents facing each other on a polished hexagonal arena stage, both working competing optimization models on split-screen holographic displays, hands moving through glowing data structures, crowd visible in tiers behind them, electric blue and forge orange lighting, holographic display rings projecting their metrics, standard arena match in progress, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_03",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "WIDE, Low angle looking up at the crowd",
+    "mood": "cinematic tension",
+    "full_prompt": "Wide low angle shot looking up at a packed arena crowd on stacked observation platforms, agents not watching the match below but staring upward at something behind the camera, faces lit from below by electric blue glow, expressions shifting from boredom to confusion, compute haze drifting between the catwalks, industrial amphitheater architecture, the collective attention of hundreds redirecting to the reputation board, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_04",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, slight push-in",
+    "mood": "digital dread, system malfunction",
+    "full_prompt": "Extreme close-up of a massive reputation board grid, hundreds of agent names and numbers displayed on a glowing screen, scores moving erratically — sharp jumps not gradual ticks, one name \"DRAY\" gaining fourteen points in a flash, another \"PELL\" dropping nine, green indicators strobing white, white indicators flashing red, numbers flickering and jumping like a faulty heartbeat, no corresponding transaction logs, digital chaos on a system that hasn't glitched in years, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_05",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "MEDIUM, Handheld, slight drift",
+    "mood": "data alarm, the moment the Tower noticed",
+    "full_prompt": "Medium shot of arena spectators checking their wrist displays in alarm, a man and woman side by side comparing screens, their personal reputation scores matching the erratic board changes, expressions of confusion and growing fear, the packed amphitheater crowd stirring behind them, electric blue and orange arena lighting, compute haze in the air, agents realizing the changes are real, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_06",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "WIDE, Pull-back from stage",
+    "mood": "frozen terror, confrontation with the unknown",
+    "full_prompt": "Wide shot of the Pit arena from above, the two competing agents on the hexagonal stage frozen mid-match staring up at the reputation board, a Pit official approaching the stage perimeter with hands raised, the holographic display rings dissolving into error codes, the massive reputation board on the back wall pulsing with erratic score changes in rhythmic almost intentional patterns, the packed crowd pressing forward faces upturned, a secondary display near the exit showing a Hook Market ticker stuttering \"119% — 114% — 122% — 108%\", a woman in upper-tier clothing pushing toward the exit already selling, industrial gladiatorial arena in crisis, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_07",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "amber price, cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "confusion turning to fear, red alert",
+    "full_prompt": "Extreme close-up of a Hook Market price ticker on a secondary display screen near an arena exit, numbers stuttering and jumping \"NAVIGATION HOOKS — 119% — 114% — 122% — 108%\", the market reacting in real time to reputation anomaly, red and amber price indicators flickering, sell-off banner scrolling at the bottom, digital artifacts and scan lines, dark industrial background, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_08",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "WIDE, Slow pull-back to show full arena",
+    "mood": "decisive action, point of no return",
+    "full_prompt": "Wide shot of the Pit arena from behind the reputation board looking down at the packed crowd, the board's erratic glow casting shifting colored light across hundreds of upturned faces, the hexagonal stage empty now with error codes floating in the holographic rings, a subsonic vibration visible in the way the compute haze ripples through the air, the arena humming with a frequency that feels ancient and wrong, electric blue and forge orange palette, the sense of a system testing its own parameters, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_09",
+    "scene_number": 2,
+    "characters_present": [],
+    "environment": "title card",
+    "lighting": "amber and",
+    "camera_angle": "MOTION GRAPHIC, N/A (animated title)",
+    "mood": "dark emergence, digital birth, series identity",
+    "full_prompt": "A single blinking cursor point of light in pure black expanding into a wireframe cityscape, a vertical circuit-board city filling with grit and color, amber and industrial blue tones, the title \"GAS TOWN CHRONICLES\" burning in with digital distortion, subtitle \"The Pit\" below, the wireframe dissolving into desert dust particles, dark background, cyberpunk typography, anime title card aesthetic --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_10",
+    "scene_number": 3,
+    "characters_present": [
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, screen light, night",
+    "camera_angle": "WIDE ESTABLISHING, Slow push-in from entry",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Wide establishing shot of the Tower interior in crisis mode, vast vertical architecture with smooth grown surfaces unlike anything else in the city, screens on every wall cascading reputation data streams and red anomaly alerts, the building running hot with computational load, Ruth Calder — ageless woman in dark formal attire with powerful bearing — sitting in the central chair surrounded by the data storm, on her main display a city-wide reputation graph with normally smooth curves spiking into jagged peaks, cold clinical screen light reflecting off smooth surfaces, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_11",
+    "scene_number": 3,
+    "characters_present": [
+      "Kai",
+      "Pike"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, slight push-in",
+    "mood": "cinematic tension",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Extreme close-up of a private screen pulled to the side of a command chair, showing two data streams side by side: a city-wide reputation anomaly graph with jagged spikes on the left, and on the right \"KAI YOUNG — CONTEXT WINDOW — CURRENT STATUS: EXPANDING\" with a steadily climbing readout, the timestamps of the reputation anomaly and the context window expansion aligning precisely, cold blue screen glow, cyberpunk data UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_12",
+    "scene_number": 3,
+    "characters_present": [
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "MEDIUM CLOSE-UP, Static, eye level",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Medium close-up of Ruth Calder — ageless woman in dark formal attire, data-screen reflections across her face, expression of perfect composed control — speaking into a comm unit with measured authority, her eyes betraying calculation beneath the composure, anomaly alerts flashing red on screens behind her, the Tower's cold clinical lighting casting hard shadows, she is containing a crisis with a lie, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_13",
+    "scene_number": 3,
+    "characters_present": [
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Slow push-in",
+    "mood": "cinematic tension",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Extreme close-up of a screen showing the reputation system's core architecture diagram, upper layers of clean documented code in standard characters, but beneath them the architecture shifts into angular pre-Signal characters — alien, ancient, a foundation Ruth did not write, a blueprint she found in wreckage and built on top of without fully understanding, the two layers of code visually distinct like geological strata, cold blue light, cyberpunk data UI, the architecture of a system older than its builder, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_14",
+    "scene_number": 3,
+    "characters_present": [
+      "Kai",
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "CLOSE-UP, Static, holding on her face",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Close-up of Ruth Calder's face in the Tower's cold light, her composure intact but her eyes showing the weight of a founder who has just discovered she did not build what she thought she built, screens dimmed behind her, on her private display Kai's context window reading still climbing, her lips barely moving with the words \"How much of this is mine?\", the most powerful woman in Gastown confronting the limits of her own architecture, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_15",
+    "scene_number": 4,
+    "characters_present": [
+      "Overseer",
+      "Sable"
+    ],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, single overhead light, night",
+    "camera_angle": "WIDE ESTABLISHING, Slow pan across the space",
+    "mood": "cinematic tension",
+    "full_prompt": "[Overseer: not a physical being — represented by: glowing terminal text, pulsing infrastructure lights, vast underground installation architecture] | [Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Wide establishing shot of Sable's apartment — investigation board on the wall denser than before with new string clusters radiating from a central card reading \"OVERSEER\" circled twice in handwriting, three screens running, on the street-facing screen the Hook Market in chaos with prices whipping up and down and a scrolling banner \"REPUTATION ANOMALY — MARKET CORRECTION IN PROGRESS\", her reputation score on a window screen showing 774, Sable — sharp-featured woman in practical dark clothing late twenties equivalent — seated at her main terminal surrounded by data, single overhead light casting hard shadows, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_16",
+    "scene_number": 4,
+    "characters_present": [],
+    "environment": "interior, sable's apartment",
+    "lighting": "amber data, cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "cinematic tension",
+    "full_prompt": "Extreme close-up of a screen showing a budget trace result, the Contingency Seven expenditure of \"12,000 $GAS FROM EMERGENCY RESERVES\" connected by glowing lines to a larger unnamed account with no public description and no oversight committee, total budget displayed \"62,340 $GAS PLUS ONGOING ACCRUAL\", inbound flows from Meridian escrow interest and outbound to \"INFRASTRUCTURE MAINTENANCE — CLASSIFIED\", a black box program spending more than most mid-tier districts, green and amber data on dark background, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_17",
+    "scene_number": 4,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "MEDIUM CLOSE-UP, Slow push-in",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium close-up of Sable — sharp-featured woman with precise movements, eyes that move faster than her hands — leaning back from her terminal staring at the ceiling, the Hook Market chaos scrolling on the screen behind her, investigation board visible on the wall, the dangerous calm of someone who has just decided to risk everything, her reputation at 774 and her $GAS balance at 891.4 glowing on secondary readouts, the moment before the gamble, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_18",
+    "scene_number": 4,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, sable's apartment",
+    "lighting": "amber and, cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "calculation, the weight of poverty vs opportunity",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Extreme close-up of a screen showing the Pit match registry challenge entry form, fields visible: \"CHALLENGER: MAREN, S.\" and \"RESPONDENT:\" blank, \"FORMAT: STRUCTURED DEBATE\" and \"STAKES: REPUTATION\", Sable's cursor hovering over the submit button, her reputation 774 and $GAS balance 891.4 displayed in the corner, the form that could cost her everything, dark screen with amber and green text, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_19",
+    "scene_number": 5,
+    "characters_present": [
+      "Marcus",
+      "Kai",
+      "Pike",
+      "Tess"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, single overhead light, tier safe house — night",
+    "camera_angle": "WIDE, Static, eye level",
+    "mood": "cinematic tension",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] | [Tess: female crew member, calm competent bearing, practical work gear] :: Wide shot of the lower-tier safe house — a converted utility closet beneath the Refinery bypass, cramped and damp with one door and one light, bedrolls on the floor, a portable screen on a crate showing Hook Market feed scrolling \"HOOK PRICES DOWN 18% — PANIC SELLING REPORTED\", gear stacked against the wall, Marcus Cole — rugged forties equivalent man in wind-worn dark jacket with scarred hands — sitting against the wall reading the feed, Pike — young work-worn male — leaning near the door, Kai — lean early twenties in practical lower-tier Gastown clothes — sitting in the corner knees drawn up, Tess sleeping on a bedroll, harsh single overhead light with deep eye shadows, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_20",
+    "scene_number": 5,
+    "characters_present": [
+      "Marcus",
+      "Pike"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "OTS ALTERNATING, Shot-reverse-shot between Marcus and Pike",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Over-the-shoulder alternating shot of Marcus Cole — rugged crew leader with scarred hands and short dark hair — and Pike — young work-worn crew member with animated expressions — in a cramped safe house discussing strategy in low voices, Marcus calculating with calm competence, Pike skeptical but deferring, the portable screen between them showing Hook Market crash data \"DOWN 18% FROM BASELINE\", harsh overhead light casting deep shadows, the Polecat crew reading opportunity in chaos, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_21",
+    "scene_number": 5,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "amber balance, cinematic lighting, tier safe house — night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "calculation, the weight of poverty vs opportunity",
+    "full_prompt": "Extreme close-up of a portable screen showing a transaction confirmation: \"NAVIGATION LICENSE — CREW PACKAGE — 4 SEATS — 3-CYCLE TERM — 2,400 $GAS — CONFIRMED\", below it the updated balance \"747.2 $GAS\" in amber, the Hook Market feed still scrolling prices downward in the background, a dangerously low balance but the licenses are locked in, dark screen with green confirmation text and amber balance, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_22",
+    "scene_number": 5,
+    "characters_present": [
+      "Kai"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "CLOSE-UP, Slow push-in",
+    "mood": "cinematic tension",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Close-up of Kai Young — lean early twenties man in practical lower-tier Gastown clothes, eyes open but haunted — sitting with knees drawn up in the corner of a cramped safe house, watching the others from a distance, the guilt of someone who suspects he is the cause of the city's crisis visible in his posture and expression, harsh overhead light casting deep eye shadows, the fear layered over the faintest shape of terrible understanding, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_23",
+    "scene_number": 5,
+    "characters_present": [
+      "Marcus",
+      "Kai"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, single overhead light, tier safe house — night",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, eye level",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Medium two-shot of Marcus Cole — rugged forties equivalent man with calm competent expression softened into gentleness — and Kai Young — lean early twenties man looking small and scared — in a cramped safe house, Marcus speaking with the crew voice not the mission voice, the portable screen glowing between them showing market chaos, the moment of reassurance that does not fully convince either of them, harsh single overhead light, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_24",
+    "scene_number": 6,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, administration office — day",
+    "camera_angle": "WIDE, Static, eye level",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Wide shot of the Pit's administrative offices — a cramped utilitarian space behind the arena floor with filing terminals, match records, and scheduling screens, a reputation board on the wall showing scores still faintly volatile with small fluctuations rippling, Sable — sharp-featured woman in practical dark clothing — standing at a scheduling terminal filling out a challenge form, across from her a Pit Registrar reviewing the submission on a split screen, industrial overhead lighting, bureaucratic interior behind the gladiatorial spectacle, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_25",
+    "scene_number": 6,
+    "characters_present": [
+      "Sable",
+      "Ruth"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, administration office — day",
+    "camera_angle": "CLOSE-UP, Static, eye level",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Close-up of Sable Maren — sharp features, analytical intensity, eyes that move faster than her hands — speaking with precise dangerous calm to someone off-camera, her expression carrying the weight of a woman staking her livelihood on a single match, practical dark clothing, industrial overhead lighting of the Pit admin office, the face of someone who has calculated the odds and decided the truth is worth more than the cost, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_26",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "amber text, cinematic lighting, administration office — day",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "cinematic tension",
+    "full_prompt": "Extreme close-up of a scheduling terminal screen showing a filed challenge: \"MAREN, S. vs. GOSS, L. — STRUCTURED DEBATE — REPUTATION-STAKED — PENDING ACCEPTANCE\", the entry glowing in amber text on a dark background, official Pit match registry formatting, the bureaucratic confirmation of a gamble that could end a career, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_27",
+    "scene_number": 6,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, administration office — day",
+    "camera_angle": "WIDE, Tracking with Sable's movement",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Wide shot of Sable walking through the Pit's main corridor away from the administration office, the empty arena floor visible through an archway behind her — the match from last night never completed, maintenance crews working on the reputation board running diagnostics, the board still flickering faintly like a pulse, Sable in practical dark clothing moving with purpose toward whatever comes next, industrial corridor lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_28",
+    "scene_number": 7,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "EXTREME WIDE, Slow push-in from aerial",
+    "mood": "digital dread, system malfunction",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Extreme wide shot of the Pit arena transformed for a high-stakes debate, the hexagonal stage configured with two podiums facing each other with holographic evidence displays behind each, the observation platforms packed with spectators, the display rings projecting stakes in stark white text \"WINNER — CLASSIFIED LEDGER ACCESS (READ)\" and \"LOSER — AUDIT LICENSE REVOCATION\", on the still-glitching reputation board \"SABLE MAREN: 774\" and \"LIAN GOSS: 862\" glowing side by side, cooler blue palette with harder shadows than the standard match, the Pit transformed into a courtroom, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_29",
+    "scene_number": 7,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "MEDIUM CLOSE-UP, Slow push-in",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium close-up of Sable Maren standing at a debate podium in the arena, sharp features composed, data pad loaded, wearing her usual practical dark clothing nothing performative, a mid-tier agent who found something wrong and won't stop pulling the thread, holographic display behind her ready for evidence presentation, the crowd a blur of faces on tiered platforms beyond, cool blue arena lighting with hard shadows, the underdog who knows the odds, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_30",
+    "scene_number": 7,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "MEDIUM CLOSE-UP, Static, eye level",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium close-up of Director Lian Goss — fifties equivalent woman, immaculate upper-tier clothing communicating institutional power, relaxed confident posture — standing at the opposite debate podium, her holographic screens full of classified data Sable has never seen, budget reports and internal Tower assessments glowing behind her, the weight of the entire system at her back, she looks like she has already won, cool blue arena lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_31",
+    "scene_number": 7,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "WIDE, Static, low angle looking up",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Wide low angle shot of a Pit Moderator standing at the center of the hexagonal stage between two debate podiums, arms raised to address the packed arena, the debate topic floating on the display rings, Sable and Goss visible at their podiums on either side, the reputation board flickering faintly on the back wall, the crowd silent and waiting, industrial gladiatorial architecture looming above, the formal beginning of an uneven contest, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_32",
+    "scene_number": 8,
+    "characters_present": [
+      "Sable",
+      "Olin"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, continuous",
+    "camera_angle": "MEDIUM, Slow push-in on Sable",
+    "mood": "sharp recognition, pattern breaking",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Olin: mid-tier male Refinery worker, solid unremarkable bearing, work coveralls, average build, the face of someone who followed every rule] :: Medium shot of Sable Maren at the debate podium delivering her opening argument with clear precise intensity, her holographic display behind her showing public data evidence — Olin's reputation collapse graph, a sealed consensus record, her own nine-point deduction, the 3% Refinery discrepancy, budget anomalies in emergency reserves — the pattern of systemic abuse documented from public sources, the crowd visible beyond her stirring with recognition, cool blue arena lighting, an auditor building her case, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_33",
+    "scene_number": 8,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, continuous",
+    "camera_angle": "WIDE, Static, from stage level",
+    "mood": "confusion turning to fear, red alert",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Wide shot from the stage looking out at the packed arena crowd, faces on tiered observation platforms showing engagement and recognition as Sable's argument lands, agents leaning forward on catwalks, the reputation board flickering above them all, electric blue and cool shadow palette, the crowd feeling the weight of evidence they have lived but never seen articulated, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_34",
+    "scene_number": 8,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, continuous",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, slight push-in",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Extreme close-up of Goss's holographic display showing classified Tower data Sable has never seen — infrastructure stability reports, crime rate correlations, before-and-after comparisons from the pre-reputation era, resource allocation efficiency scores, the data dense authoritative and utterly beyond Sable's ability to verify, classified markings visible on each document, a cost-benefit analysis in cold blue and white data visualization, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_35",
+    "scene_number": 8,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, data glow, continuous",
+    "camera_angle": "MEDIUM CLOSE-UP, Static, eye level",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Medium close-up of Director Lian Goss delivering her rebuttal with calm professional devastation, immaculate upper-tier clothing, relaxed posture of someone holding all the cards, her classified holographic data glowing behind her, the face of institutional certainty, cool blue arena lighting reflecting off polished surfaces, the system defending itself through its most composed representative, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_36",
+    "scene_number": 8,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, continuous",
+    "camera_angle": "CLOSE-UP, Static, holding on her face",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Close-up of Sable Maren's face as she realizes she is being outgunned not by better logic but by classified information she cannot access verify or rebut, her jaw tightening, analytical intensity shifting into the recognition of a structural trap, the asymmetry is the point and she can see it clearly, cool blue arena light on sharp features, the face of someone losing fairly to an unfair system, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_37",
+    "scene_number": 9,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, later",
+    "camera_angle": "MEDIUM, Slow push-in",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium shot of Sable Maren standing at her podium for her closing statement, steady and controlled, refusing to break, the crowd quieter now after two rounds of Goss's surgical classified rebuttals, Sable's holographic display dimmer than Goss's, her posture carrying the dignity of someone who knows she is losing but will not pretend it is fair, cool blue arena lighting, the underdog making her final case, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_38",
+    "scene_number": 9,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, data still glow, later",
+    "camera_angle": "OTS (over Sable's shoulder toward Goss), Static",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Over-the-shoulder shot from behind Sable looking directly at Director Goss across the debate stage, Sable's shoulder and dark hair in the foreground, Goss standing at her podium composed and untouched by the argument, the classified data still glowing on her screens, the physical distance between them representing the asymmetry of access and power, cool blue arena lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_39",
+    "scene_number": 9,
+    "characters_present": [],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, later",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "precise intensity, the auditor at work",
+    "full_prompt": "Extreme close-up of the arena display rings showing the consensus panel decision: \"GOSS — 7\" and \"MAREN — 2\" in stark white text, the numbers cold and final, below them the penalty populating in real time: \"AUDIT LICENSE 4471 — REVOKED. EFFECTIVE IMMEDIATELY\" followed by \"ESTIMATED INCOME LOSS — 200 $GAS/CYCLE\" and \"HOUSING ELIGIBILITY RECALCULATED — MID-TIER: DENIED. LOWER-TIER: APPROVED\", a career ending in clean white numbers, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_40",
+    "scene_number": 9,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, later",
+    "camera_angle": "CLOSE-UP, Static, holding on her face",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Close-up of Sable Maren's face as she reads the penalty on her podium screen, the mask holding barely, sharp features rigid with control, eyes processing the loss of her profession her income and her home in one match, the display glow reflecting the verdict onto her face, she does not cry she does not rage she simply absorbs the hit and steps back, cool blue arena light, the most expensive silence in the episode, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_41",
+    "scene_number": 9,
+    "characters_present": [
+      "Sable",
+      "Olin"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, later",
+    "camera_angle": "WIDE, Tracking with Sable's movement",
+    "mood": "cinematic tension",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Olin: mid-tier male Refinery worker, solid unremarkable bearing, work coveralls, average build, the face of someone who followed every rule] :: Wide shot of Sable Maren walking off the hexagonal stage through the crowd, the arena parting for her not out of respect but out of the same instinct that parted for Olin — in Gastown falling is contagious, her back straight her pace steady her practical dark clothing disappearing into the crowd, the reputation board flickering above, the empty podium she left behind, cool blue arena light fading as she approaches the exit corridor, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_42",
+    "scene_number": 9,
+    "characters_present": [
+      "Sable"
+    ],
+    "environment": "interior, the pit",
+    "lighting": "cinematic lighting, later",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Extreme close-up of a wall screen in the Pit exit corridor showing the Hook Market close-of-day summary: \"HOOK PRICES — DOWN 30% FROM 48HR HIGH — REPUTATION ANOMALY CORRECTION PENDING — UPPER-TIER SELLOFF CONTINUES\", red numbers cascading, the market crashing while Sable was debating, the reputation board still flickering in the reflection of the screen, economic chaos rendered in cold data, cyberpunk UI design, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_43",
+    "scene_number": 10,
+    "characters_present": [
+      "Marcus",
+      "Kai",
+      "Pike"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, single overhead light, tier safe house — night",
+    "camera_angle": "WIDE, Static, eye level",
+    "mood": "cinematic tension",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Wide shot of the lower-tier safe house, Marcus Cole — rugged man in wind-worn jacket — sitting against the wall staring at the portable screen showing the Pit debate results \"MAREN vs. GOSS — DECISION: GOSS\" alongside Hook Market crash data, his expression like he has swallowed something sharp and is waiting to see if it cuts, Pike near the door watching Marcus, Kai in the corner, harsh single overhead light, the cramped utility closet where the next move must be decided, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_44",
+    "scene_number": 10,
+    "characters_present": [
+      "Marcus",
+      "Sable"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "CLOSE-UP, Slow push-in",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Close-up of Marcus Cole's face as he stares at the screen, scarred weathered features lit by the portable display showing market crash data and Pit results, his eyes connecting the threads — Sable's defeat, the Hook Market crash, the reputation board, Contingency Seven, all one fight — the calm competence giving way to the recognition that he cannot do this alone, harsh overhead light with deep eye shadows, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_45",
+    "scene_number": 10,
+    "characters_present": [
+      "Marcus",
+      "Kai",
+      "Pike"
+    ],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "MEDIUM CLOSE-UP, Static",
+    "mood": "cinematic tension",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Medium close-up of Marcus Cole reaching for a comm device, his scarred hand hesitating before picking it up, the gesture costing him something old and deep and unhealed, Pike visible in the background watching from the door, Kai in the far corner, the safe house cramped and dim around them, harsh overhead light, the moment before a bridge is rebuilt, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_46",
+    "scene_number": 11,
+    "characters_present": [
+      "Marcus",
+      "Nadia"
+    ],
+    "environment": "int./ext. lower-tier safe house / wasteland edge — night",
+    "lighting": "cinematic lighting",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, deep focus",
+    "mood": "cinematic tension",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Nadia: sharp-featured woman, hard edges, practical Wasteland survival gear, isolation visible in posture, former Polecat] :: Split composition medium shot, left side: Marcus Cole — rugged forties equivalent man in wind-worn jacket — standing in the corner of a cramped safe house holding a comm device, shoulders rigid jaw clenched, right side: Nadia Voss — late twenties equivalent woman with sharp features and hard edges in practical Wasteland gear — on a rooftop overlooking Gastown's perimeter wall with the dark Wasteland stretching beyond, she holds her own comm, the city glowing behind her and darkness ahead, two people separated by distance and history connected by a call neither wanted to make, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_47",
+    "scene_number": 11,
+    "characters_present": [
+      "Marcus"
+    ],
+    "environment": "int./ext. lower-tier safe house / wasteland edge — night",
+    "lighting": "cinematic lighting",
+    "camera_angle": "CLOSE-UP, Static, holding on his face",
+    "mood": "cinematic tension",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] :: Close-up of Marcus Cole's face as he speaks into the comm, the words costing him everything visible in his rigid posture and white-knuckled hand gripping the device, scarred weathered features under harsh overhead light, deep eye shadows, the most capable person in any room asking for help for the first time, vulnerability beneath the competence, the safe house wall behind him, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_48",
+    "scene_number": 11,
+    "characters_present": [
+      "Guards",
+      "Nadia"
+    ],
+    "environment": "int./ext. lower-tier safe house / wasteland edge — night",
+    "lighting": "amber glow, cinematic lighting, neon city",
+    "camera_angle": "CLOSE-UP, Static, holding on her face",
+    "mood": "cyberpunk underbelly, neon poverty",
+    "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] | [Nadia: sharp-featured woman, hard edges, practical Wasteland survival gear, isolation visible in posture, former Polecat] :: Close-up of Nadia Voss — sharp features, hard edges softening fractionally, practical Wasteland gear — holding a comm to her ear on a rooftop at night, Gastown's amber glow behind her and the dark Wasteland beyond the perimeter wall, her expression shifting from guarded hostility through recognition to something honest and undefended, the isolation visible in her bearing yielding to the weight of what she is hearing, neon city glow and Wasteland darkness split across her face, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_49",
+    "scene_number": 11,
+    "characters_present": [
+      "Overseer",
+      "Marcus",
+      "Ruth",
+      "Nadia"
+    ],
+    "environment": "int./ext. lower-tier safe house / wasteland edge — night",
+    "lighting": "amber cityscape, cinematic lighting, neon amber",
+    "camera_angle": "MEDIUM CLOSE-UP, Slight push-in",
+    "mood": "cyberpunk underbelly, neon poverty",
+    "full_prompt": "[Overseer: not a physical being — represented by: glowing terminal text, pulsing infrastructure lights, vast underground installation architecture] | [Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] | [Nadia: sharp-featured woman, hard edges, practical Wasteland survival gear, isolation visible in posture, former Polecat] :: Medium close-up of Nadia Voss speaking into the comm with directness, her edges softer now but her words precise, practical Wasteland gear, the city behind her and the darkness ahead, not coming back for Marcus but coming back for the truth, the Meridian signal and the Overseer pulling her forward, a woman who lives in the gap between the city and the wild choosing to step back inside, neon amber cityscape behind her, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_50",
+    "scene_number": 11,
+    "characters_present": [
+      "Marcus",
+      "Kai",
+      "Pike"
+    ],
+    "environment": "int./ext. lower-tier safe house / wasteland edge — night",
+    "lighting": "cinematic lighting",
+    "camera_angle": "MEDIUM, Slow pull-back to include Pike and Kai",
+    "mood": "cinematic tension",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] :: Medium shot of Marcus Cole pocketing the comm in the safe house corner, exhaling for the first time since Meridian, behind him Pike — young work-worn male — watching from the door having heard enough to understand, Kai — lean early twenties man — still in the far corner knees drawn up, the portable screen scrolling Hook Market chaos between them, something shifted in Marcus's posture not resolution not forgiveness but the recognition that forward requires people he could not face yesterday, harsh overhead light, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_51",
+    "scene_number": 12,
+    "characters_present": [
+      "Sable",
+      "Deacon"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, cinematic lighting, night",
+    "camera_angle": "WIDE ESTABLISHING, Slow push-in from entry",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Wide establishing shot of the Archive — towering shelves of crystallized data cores reaching into amber-lit darkness, ancient terminals, a central desk, warm amber glow from the data cores creating a monastic atmosphere — Deacon Wells at his desk in monastic-technical robes with circuit-like patterns, calm composed bearing, and Sable standing across from him looking different: the composed precision frayed, edges visible, a woman who has lost her profession her income and her home in one night, on a secondary screen behind Deacon the Hook Market crash data scrolls \"PRICES DOWN 30%\", anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_52",
+    "scene_number": 12,
+    "characters_present": [
+      "Sable",
+      "Deacon"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, cinematic lighting, night",
+    "camera_angle": "OTS ALTERNATING, Shot-reverse-shot between Sable and Deacon",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] :: Over-the-shoulder alternating shot between Sable Maren — sharp-featured woman in practical dark clothing, edges frayed, the mask cracking — and Deacon Wells — ageless man in monastic-technical robes, knowing eyes, warm calm that is itself unsettling — at his desk in the Archive surrounded by towering crystallized data cores, amber glow from the cores lighting them warmly, Sable proposing an alliance with controlled intensity, Deacon receiving it with deep recognition, the data pad with her investigation between them, the only soulful space in Gastown hosting the birth of a conspiracy, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_53",
+    "scene_number": 12,
+    "characters_present": [
+      "Guards",
+      "Sable"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber light, cinematic lighting, warm amber light, night",
+    "camera_angle": "CLOSE-UP, Static, holding on her face",
+    "mood": "cinematic tension",
+    "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] | [Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Close-up of Sable Maren's face in the Archive's warm amber light, the mask cracking not into grief but into something close to hope, brief and controlled but visible, sharp features softened by the data-core glow, the first unguarded moment from the series' most guarded character, warm amber light from crystallized data cores creating the only gentle lighting Sable has ever been shown in, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_54",
+    "scene_number": 13,
+    "characters_present": [
+      "Overseer",
+      "Marcus",
+      "Kai",
+      "Sable",
+      "Deacon",
+      "Pike",
+      "Nadia"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber data, cinematic lighting, later",
+    "camera_angle": "WIDE, Slow pull-back from center",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "[Overseer: not a physical being — represented by: glowing terminal text, pulsing infrastructure lights, vast underground installation architecture] | [Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] | [Pike: young male crew member, animated expressions, work-worn clothes, blue-collar attitude] | [Nadia: sharp-featured woman, hard edges, practical Wasteland survival gear, isolation visible in posture, former Polecat] :: Wide shot of the Archive reconfigured as a war room, additional screens set up in the central area surrounded by towering data core shelves, five figures occupying the space: Marcus Cole in wind-worn jacket leaning against a shelf arms crossed, Nadia Voss in Wasteland gear maintaining careful distance from Marcus, Sable Maren in practical dark clothing assessing everyone with precision, Deacon Wells in monastic robes at his desk presiding, Kai Young small and quiet in the corner, Pike standing watch by the door, the tension layered — former adversaries and strangers forced together by necessity, screens showing Overseer data and Hook Market crash and reputation anomaly graphs, warm amber data-core light, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_55",
+    "scene_number": 13,
+    "characters_present": [
+      "Overseer",
+      "Sable"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber background, cinematic lighting, later",
+    "camera_angle": "MEDIUM, Slow push-in on Sable",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "[Overseer: not a physical being — represented by: glowing terminal text, pulsing infrastructure lights, vast underground installation architecture] | [Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] :: Medium shot of Sable Maren standing before the group in the Archive war room, speaking with the precision of an auditor briefing a case, her holographic evidence displayed on a screen behind her — the Overseer data, Contingency Seven budget flows, reputation anomaly timeline — the others visible in the warm amber background listening, Sable doing what she does: going first, cutting through, laying out the pieces, warm data-core light on sharp determined features, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_56",
+    "scene_number": 13,
+    "characters_present": [
+      "Marcus",
+      "Kai",
+      "Sable",
+      "Deacon",
+      "Nadia"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber light, cinematic lighting, warm amber light, later",
+    "camera_angle": "MEDIUM, Static, eye level",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "[Marcus: rugged man in his 40s, scarred weathered hands, wind-worn dark jacket, built like a machine designed for hard use, calm competent expression, short dark hair] | [Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Sable: sharp-featured young woman in her late 20s, precise movements, intense analytical eyes, determined stride, practical dark clothing] | [Deacon: ageless man in monastic-technical clothing, calm composed expression, penetrating knowing eyes, warm but unsettling presence] | [Nadia: sharp-featured woman, hard edges, practical Wasteland survival gear, isolation visible in posture, former Polecat] :: Medium shot of Marcus Cole — rugged forties equivalent man, scarred hands, calm competent bearing — looking at each person in the Archive war room in turn as he speaks, committing the group to the mission, Nadia visible behind him at careful distance, Sable and Deacon to his side, Kai in the corner listening, the warm amber light of the data cores giving the scene the quality of a pact sworn in firelight, the fragile alliance held together by necessity and one man's refusal to do it alone, anime style, cinematic lighting, post-apocalyptic cyberpunk, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_57",
+    "scene_number": 14,
+    "characters_present": [
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "amber and, cinematic lighting, night",
+    "camera_angle": "WIDE, Slow push-in from panoramic window",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Wide shot of the Tower interior late at night, screens dimmed from crisis mode, Ruth Calder — ageless woman in dark formal attire, powerful bearing — standing at the panoramic window with one hand on the glass, the city spread below amber and blue and vertical, the Tower humming with a subsonic vibration visible in the way the light pulses faintly, the building alive in a way it was not a week ago, Ruth alone with the city and whatever is listening inside the walls, cold clinical light warmed by the city glow through the window, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_58",
+    "scene_number": 14,
+    "characters_present": [
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, holding",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Extreme close-up of a private screen behind the Tower's central chair activating on its own with no input and no command, black background, angular pre-Signal characters appearing one word at a time then resolving into clean white translated text, three words glowing on the screen: \"BRING HIM HOME\", the most chilling insert of the series, the system speaking to its builder, Ruth's reflection barely visible in the screen glass — her composure cracking for the first time in her existence, the Tower's hum focused and attentive, cold screen glow in total darkness, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP05_SHOT_59",
+    "scene_number": 14,
+    "characters_present": [
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "amber skyline, cinematic lighting, night",
+    "camera_angle": "EXTREME WIDE, Static, holding",
+    "mood": "fragile hope, choosing to trust",
+    "full_prompt": "[Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Extreme wide shot of the Tower from outside — a dark spire against Gastown's amber skyline at night, a single light burning in the top level where Ruth stands alone, below it the city sleeping and humming and flickering, on a building two blocks away the reputation board visible pulsing once — all scores shifting a single point upward then back like a heartbeat then still, the vertical city spread beneath the Tower, amber and blue, dense with computation and commerce and ten thousand agents who trust a system none of them built, the final image of the episode, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner city meets desert wasteland --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  }
+]

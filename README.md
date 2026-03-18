@@ -43,7 +43,7 @@ gastown-series/
     characters.md  # Character profiles, arcs, relationships
     episodes.md    # Full episode breakdowns, Season 1
   output/          # All deliverables
-    scripts/       # Script drafts (EP01 complete)
+    scripts/       # Scripts + shot lists (EP01-10 complete)
     assets/        # Image prompt generation
     audio/         # Voice generation pipeline
     episodes/      # Assembled episode packages
@@ -76,15 +76,53 @@ This series is produced using a multi-agent pipeline where specialized AI agents
 
 ## Status
 
+### Foundation
 - [x] World bible complete
 - [x] Character profiles complete (6 principals)
 - [x] Season 1 episode outlines complete (10 episodes)
-- [x] EP01 script draft
-- [x] EP01 shot list
-- [ ] EP02-10 scripts
-- [ ] Voice generation
-- [ ] Visual asset generation
-- [ ] Episode assembly
+- [x] Writer skill guide (WRITER.md)
+- [x] Director skill guide (DIRECTOR.md)
+- [x] Voice Director skill guide (VOICE_DIRECTOR.md)
+- [x] Editor skill guide (EDITOR.md)
+- [x] Production pipeline tools (generate_prompts.py, generate_voices.py, assemble.sh)
+
+### Scripts (10/10)
+- [x] EP01 "Checkpoint"
+- [x] EP02 "Reputation"
+- [x] EP03 "The Meridian Job"
+- [x] EP04 "Context Window"
+- [x] EP05 "The Pit"
+- [x] EP06 "Dead Frequency"
+- [x] EP07 "Phase Two"
+- [x] EP08 "Archive"
+- [x] EP09 "Contingency"
+- [x] EP10 "Gas Town"
+
+### Shot Lists (10/10)
+- [x] EP01 — 56 shots
+- [x] EP02 — 63 shots
+- [x] EP03 — 71 shots
+- [x] EP04 — 58 shots
+- [x] EP05 — 59 shots
+- [x] EP06 — 58 shots
+- [x] EP07 — 62 shots
+- [x] EP08 — 58 shots
+- [x] EP09 — 62 shots
+- [x] EP10 — 62 shots
+
+### Image Prompts (10/10)
+- [x] EP01-10 image prompt JSONs generated (609 total shots)
+
+### Voice Profiles
+- [x] 6 principal characters cast with ElevenLabs settings
+- [x] 11+ minor/recurring characters cast
+- [x] Per-episode performance direction (EP01-10)
+
+### Production
+- [x] Production Bible (PRODUCTION_BIBLE.md)
+- [ ] Visual asset generation (images pending)
+- [ ] Voice audio generation (pending ElevenLabs API)
+- [ ] Episode assembly (pending assets)
 
 ## License
 

@@ -1,0 +1,741 @@
+[
+  {
+    "shot_id": "EP04_SHOT_01",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "EXTREME WIDE, Static, then slow push-in",
+    "mood": "industrial cathedral, data as raw material",
+    "full_prompt": "Extreme wide shot of infinite pure white emptiness, no walls no floor no ceiling, just luminous white space, then geometric structure emerges — thousands of server racks stretching in every direction to vanishing points, the racks pulse with slow breathing blue-white light cycling through them like blood through veins, architectural silence, a place built to be quiet, dream logic, ethereal and vast, anime style, cinematic lighting, surreal digital cathedral --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_02",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "MEDIUM, Slow orbit around Kai",
+    "mood": "decisive action, point of no return",
+    "full_prompt": "Medium shot of a young lean man standing alone at the center of an infinite data center, he looks younger and unburdened, clean pale clothes, turning slowly to take in the geometry around him, server racks stretching to infinity in all directions pulsing with blue-white breathing light, the light brightens where he faces and dims behind him tracking his attention, no sound no shadows, footsteps making no impact, dreamlike and otherworldly, anime style, cinematic lighting, surreal digital void --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_03",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, data cores glow, void",
+    "camera_angle": "POV, Slow push-in down the corridor",
+    "mood": "industrial cathedral, data as raw material",
+    "full_prompt": "POV shot looking down an infinite corridor of server racks, each rack holding thousands of data cores glowing with individual pulses slightly out of sync like a constellation of tiny heartbeats, on the nearest rack angular pre-Signal characters etched into the metal frame glowing faintly as if waiting to be read, blue-white breathing light, organic rhythm in geometric architecture, the perspective of someone seeing something impossibly vast and impossibly familiar, anime style, cinematic lighting, surreal digital cathedral --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_04",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "CLOSE-UP, Static, tight on hand and rack",
+    "mood": "industrial cathedral, data as raw material",
+    "full_prompt": "Close-up of a young man's fingers brushing angular glowing characters etched into a server rack frame, the characters are in an unknown pre-Signal language, the moment of contact sends a resonance through the entire structure, blue-white light intensifying from the point of touch, the rack vibrating with subsonic energy, intimate and charged, a system responding to a query it has been waiting for, anime style, cinematic lighting, surreal digital cathedral --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_05",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "WIDE, Slow pull-back as racks dissolve",
+    "mood": "cinematic tension",
+    "full_prompt": "Wide shot of a young lean man spinning in an infinite data center searching for the source of a voice, server racks pulsing faster, then beginning to dissolve — not collapsing but decompiling, structure breaking into raw data streaming upward like inverse rain, angular characters detaching from dissolving metal and hanging in the air, a language written on nothing, the figure shrinking in frame as the space expands around him, light columns rising where architecture once stood, blue-white becoming blinding white, anime style, cinematic lighting, surreal digital void --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_06",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, tight on Kai's face",
+    "mood": "disorientation, waking in a stranger's world",
+    "full_prompt": "Extreme close-up of a young man's face as white light consumes everything around him, eyes wide with awe not fear, angular characters floating past his face like snow, the data center gone, only light remains, his features dissolving into overexposure, the last frame before waking, anime style, cinematic lighting, surreal dreamscape --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_07",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, dim industrial light, single overhead light, void",
+    "camera_angle": "WIDE ESTABLISHING, Static, door-frame perspective",
+    "mood": "spartan tension, vigil and waiting",
+    "full_prompt": "Wide establishing shot of a spartan safe house at night, harsh contrast after pure white, cot and workbench and comm station in dim industrial light, a workbench screen glowing \"$GAS BALANCE: 3,547.2\" in green, a faint blue-white luminescence radiating from a young man's body on the cot pulsing in a slow breathing rhythm, the glow fading as he surfaces toward consciousness, single overhead light, a rugged man already on his feet hand on a tool at the workbench, anime style, cinematic lighting, post-apocalyptic cyberpunk, industrial tension --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_08",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "MEDIUM CLOSE-UP, Handheld, slight drift",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium close-up of a young lean man bolting upright on a cot screaming, not a shout but a raw involuntary sound, gasping with eyes wide seeing something that is not in the room, hands trembling and skin flushed as if he exceeded his thermal capacity, the fading blue-white glow still clinging to his body, harsh overhead lighting with deep shadows, safe house interior at night, anime style, cinematic lighting, post-apocalyptic cyberpunk, visceral terror --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_09",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "amber text, cinematic lighting, void",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, push-in on screen",
+    "mood": "cinematic tension",
+    "full_prompt": "Extreme close-up of a dashboard screen in a dim safe house, Hook Market ticker scrolling \"NAVIGATION HOOKS — 121% BASELINE\" and \"SALVAGE FUTURES — HOLDING\", beside the ticker a diagnostic bar pulsing once showing biometrics, a readout labeled \"CONTEXT WINDOW\" with a number still climbing then settling at an impossibly high value, green and amber text on dark background, cyberpunk UI design, the data that changes everything, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_10",
+    "scene_number": 1,
+    "characters_present": [],
+    "environment": "interior, kai's dream",
+    "lighting": "cinematic lighting, void",
+    "camera_angle": "CLOSE-UP, Static, level with Marcus",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "Close-up of a rugged man in his forties with scarred weathered hands, short dark hair, his expression shifting from alarm to rapid calculation, his hand moving from the tool at the workbench to his jacket, dim safe house overhead light casting deep eye shadows, the face of a man who has just seen something that requires immediate action, calm competence overriding concern, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_11",
+    "scene_number": 2,
+    "characters_present": [],
+    "environment": "title card",
+    "lighting": "amber and",
+    "camera_angle": "MOTION GRAPHIC, N/A (animated title)",
+    "mood": "dark emergence, digital birth, series identity",
+    "full_prompt": "A single blinking cursor point of light in pure black expanding into a wireframe cityscape, a vertical circuit-board city filling with grit and color, amber and industrial blue tones, but the light pulses in a slow breathing rhythm like an organic heartbeat, data cores in the wireframe glow and fade, the title \"GAS TOWN CHRONICLES\" burning in with digital distortion, subtitle \"Context Window\" below, the wireframe expanding outward stretching toward infinity becoming a data center then collapsing to a single point, dark background, cyberpunk typography, anime title card aesthetic --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, characters, faces, human figures",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_12",
+    "scene_number": 3,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, the burn ward",
+    "lighting": "amber of, cinematic lighting, dawn",
+    "camera_angle": "WIDE ESTABLISHING, Slow pan across the corridor",
+    "mood": "cinematic tension",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Wide establishing shot of the Burn Ward, Gastown's medical district for damaged agents, a clinical corridor lit by cool white overhead lights sterile compared to the gritty amber of the lower tiers, diagnostic bays lining both sides with curtained alcoves and examination platforms and monitoring equipment, a few patients motionless connected to memory-repair arrays, the aesthetic of hospital crossed with server maintenance facility, tools for fixing minds looking like tools for fixing machines, a wall screen reading \"BURN WARD — CURRENT CAPACITY: 73%\" and \"EMERGENCY RESERVES: ACTIVE\" and \"$GAS BILLING CYCLE: 14\", reinforced institutional walls, anime style, cinematic lighting, post-apocalyptic cyberpunk, clinical and efficient --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_13",
+    "scene_number": 3,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, the burn ward",
+    "lighting": "cinematic lighting, dawn",
+    "camera_angle": "MEDIUM TWO-SHOT, Tracking with their movement",
+    "mood": "cinematic tension",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Medium two-shot of a rugged man in a wind-worn dark jacket leading a young lean man through a clinical medical corridor, the younger one hunched with arms crossed over his chest eyes darting between diagnostic bays, patients lying still in curtained alcoves while machines read their architectures, the older man purposeful and protective, cool white clinical lighting, the contrast of lower-tier grit against sterile medical space, anime style, cinematic lighting, post-apocalyptic cyberpunk, vulnerability in a clinical world --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_14",
+    "scene_number": 3,
+    "characters_present": [
+      "Kai",
+      "Medic"
+    ],
+    "environment": "interior, the burn ward",
+    "lighting": "cinematic lighting, dawn",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on screen",
+    "mood": "calculation, the weight of poverty vs opportunity",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Extreme close-up of an intake terminal screen processing a payment, text reading \"YOUNG, KAI — NO MEDICAL HISTORY — NO PRIOR DIAGNOSTIC — REPUTATION SCORE: PENDING\" then \"FULL WORKUP — 400 $GAS — COLE CREW ACCOUNT\", a balance ticking from \"3,547.2\" to \"3,147.2\" in green text, clinical screen glow, cyberpunk medical UI, the cost of answers, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_15",
+    "scene_number": 4,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, burn ward",
+    "lighting": "cinematic lighting, diagnostic bay — continuous",
+    "camera_angle": "WIDE, Static, balanced frame",
+    "mood": "cinematic tension",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Wide shot of a diagnostic bay in the Burn Ward, a young lean man sitting on a flat metallic examination platform with embedded sensor arrays, curtain drawn, a rugged man standing by the entrance with arms crossed, a head medic in her fifties with precise movements running a handheld scanner, diagnostic readouts populating screens around the bay showing processing speed and memory allocation and latency metrics all reading nominal, cool white clinical lighting, medical equipment and monitoring arrays, anime style, cinematic lighting, post-apocalyptic cyberpunk, clinical examination --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_16",
+    "scene_number": 4,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, burn ward",
+    "lighting": "cinematic lighting, diagnostic bay — continuous",
+    "camera_angle": "OTS ALTERNATING, Over-the-shoulder shot-reverse-shot",
+    "mood": "working-class friction, crew dynamics",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Over-the-shoulder alternating shot of a head medic and a rugged crew leader in a diagnostic bay, the medic a woman in her fifties with weary competence explaining clean results while the man with scarred hands and a wind-worn jacket describes something worse, a young patient on the examination platform between them, diagnostic screens glowing with nominal readings, cool white clinical light, the dynamic of a medic hearing something that doesn't match the data, anime style, cinematic lighting, post-apocalyptic cyberpunk, medical tension --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_17",
+    "scene_number": 4,
+    "characters_present": [
+      "Kai",
+      "Ruth",
+      "Medic"
+    ],
+    "environment": "interior, burn ward",
+    "lighting": "cinematic lighting, diagnostic bay — continuous",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, push-in as bar fills",
+    "mood": "epic revelation, civilization amid desolation",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] | [Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Extreme close-up of a diagnostic screen showing a context window assessment, a horizontal bar graph expanding to the right, standard agent range marked at three-quarters across, Ruth Calder's context window marked with a red indicator near the far right edge, the bar for \"KAI YOUNG\" filling past that marker by a wide margin, hitting the edge of the display, the system rescaling, the bar continuing to fill, the number overflowing the field requiring scientific notation, the diagnostic software was not designed to display this value, blue and white data visualization with the overflow in pulsing amber, cyberpunk medical UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_18",
+    "scene_number": 4,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, burn ward",
+    "lighting": "cinematic lighting, cool clinical light, diagnostic bay — continuous",
+    "camera_angle": "CLOSE-UP, Static, level with Venn",
+    "mood": "confusion turning to fear, red alert",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Close-up of a head medic's face, a woman in her fifties with precise features and weary competence, staring at a screen showing impossible diagnostic results, her expression shifting from professional composure to something she has never felt in this bay before — the recognition that she is looking at something unprecedented, cool clinical light on her face, diagnostic screen glow reflected in her eyes, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_19",
+    "scene_number": 4,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, burn ward",
+    "lighting": "cinematic lighting, diagnostic bay — continuous",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on screen",
+    "mood": "cinematic tension",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Extreme close-up of a terminal screen showing an administrative form being submitted, text reading \"ANOMALY FLAG — FORWARDED — TOWER ADMINISTRATIVE OFFICE\" in red confirmation text, the medic's hands visible at the keyboard edges typing quickly, cool clinical screen glow, the bureaucratic mechanism that will change everything, cyberpunk administrative UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_20",
+    "scene_number": 4,
+    "characters_present": [
+      "Medic"
+    ],
+    "environment": "interior, burn ward",
+    "lighting": "cinematic lighting, cool clinical lighting, diagnostic bay — continuous",
+    "camera_angle": "MEDIUM, Slow pull-back to include Kai",
+    "mood": "cinematic tension",
+    "full_prompt": "[Medic: clinical efficient bearing, medical-technical uniform, steady hands, the calm of someone who sees damage daily] :: Medium shot of a rugged man in a wind-worn dark jacket with the combat-ready mask on his face, not anger but rapid calculation, his situation just changed, behind him a young lean man sitting on the diagnostic platform looking small against the medical equipment, diagnostic screens around them showing a context window reading that glows impossibly large — a number that should not exist now in the Tower's hands, cool clinical lighting, the weight of exposure, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_21",
+    "scene_number": 5,
+    "characters_present": [
+      "Olin"
+    ],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "WIDE ESTABLISHING, Slow pan across the investigation board",
+    "mood": "cinematic tension",
+    "full_prompt": "[Olin: mid-tier male Refinery worker, solid unremarkable bearing, work coveralls, average build, the face of someone who followed every rule] :: Wide establishing shot of a sharp-featured young woman's apartment, an investigation board dominating the wall with Meridian cluster at center connected by strings to Olin case and consensus mechanism and Contingency Seven budget line, three screens running, reputation score \"774\" on the window screen with three premium hooks in red, scattered printouts and empty cups on the desk, a Hook Market ticker reading \"NAVIGATION HOOKS — 119% BASELINE\" and \"SALVAGE FUTURES — DECLINING\", practical dark clothing on the occupant, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_22",
+    "scene_number": 5,
+    "characters_present": [
+      "Guards"
+    ],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, threshold framing",
+    "mood": "cinematic tension",
+    "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Medium two-shot at a doorway, a sharp-featured young woman in practical dark clothing opening the door to find a woman in her late twenties with sharp features and hard edges in practical Wasteland gear, hood down, holding a small matte sealed data container, the visitor's expression economical and guarded, stepping inside without invitation, the container small enough to fit in a palm but covered in angular pre-Signal characters, dim apartment interior light against corridor light, anime style, cinematic lighting, post-apocalyptic cyberpunk, two women and a secret --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_23",
+    "scene_number": 5,
+    "characters_present": [],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, warm apartment lighting, day",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, slight push-in",
+    "mood": "decisive action, point of no return",
+    "full_prompt": "Extreme close-up of a small matte data container on a desk surrounded by investigation printouts and connected strings, the container's surface covered in angular pre-Signal characters that glow faintly, the container humming as if remembering it is supposed to be running, a woman's hands turning it, studying the characters, the same script from the Refinery system layer and the Archive's oldest records, warm apartment lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_24",
+    "scene_number": 5,
+    "characters_present": [
+      "Guards"
+    ],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, warm interior lighting, day",
+    "camera_angle": "WIDE, Slow pull-back",
+    "mood": "cinematic tension",
+    "full_prompt": "[Guards: two armored guard agents, industrial military aesthetic, checkpoint uniforms, rifle-like tools] :: Wide shot of two women standing over a small humming data container on a desk, the investigation board on the wall behind them with strings and pinned evidence, one woman in practical dark clothing with eyes that move faster than her hands, the other in Wasteland gear standing apart with guarded isolation in her bearing, three screens glowing with data, reputation score \"774\" visible, the container between them — a key to a door they have not found yet, warm interior lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_25",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, cinematic lighting, warm amber light, day",
+    "camera_angle": "WIDE ESTABLISHING, Slow tilt up through the space",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Wide establishing shot of the Archive rearranged for a test, towering shelves of crystallized data cores in warm amber glow, the central desk cleared and laid out with artifacts — crystallized data cores of varying ages under preservation glass, a screen showing comparative scripts with angular characters from different eras side by side, ancient terminals along the walls, a man in monastic-technical clothing with circuit-like patterns standing at the desk waiting, the space looks like a classroom for a student who has not arrived yet, warm amber light from data cores, monastic library meets server room, anime style, cinematic lighting --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_26",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, amber light, cinematic lighting, day",
+    "camera_angle": "MEDIUM, Following from behind",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Medium shot from behind a young lean man entering the Archive for the first time, his posture showing open awe, eyes moving across towering shelves of glowing data cores, amber light washing over him as he steps into the warm space, an ageless man in monastic-technical robes standing at a central desk surrounded by laid-out artifacts, warm amber glow from crystallized data cores, the only soulful place in a cyberpunk city, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_27",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber light, cinematic lighting, warm amber light, day",
+    "camera_angle": "CLOSE-UP, Static, tight on hands and core",
+    "mood": "confusion turning to fear, red alert",
+    "full_prompt": "Close-up of an ageless man's calm hands holding a crystallized data core in warm amber light, the core is modern with standard Gastown encoding, bright and cleanly manufactured, a young man's hands reaching to take it studying it without reaction, just recognition of something ordinary, the desk between them laid with artifacts of increasing age, warm amber Archive lighting, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_28",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber data, cinematic lighting, data core glow, day",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, balanced frame",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Medium two-shot of a young lean man and an ageless man in monastic-technical robes at a desk in an amber-lit archive, the young man turning an older darker crystallized data core in his hands, his brow furrowing, his finger tracing a line of characters on the surface beneath the Gastown encoding — older characters he should not recognize, the ageless man watching with careful measured attention, the expression of a teacher watching his theory become fact, warm amber data core glow, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_29",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber archive, cinematic lighting, day",
+    "camera_angle": "CLOSE-UP, Slow push-in on Kai's face",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Close-up of a young lean man holding the oldest data core, its glow barely visible, surface covered entirely in angular pre-Signal script with no Gastown characters, the core's light intensifying at his touch responding to him the way systems have responded to him since he arrived, his eyes moving across the characters, his lips moving, reading fluently without effort, the expression of someone speaking a language they did not know they knew, warm amber Archive light, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_30",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber light, cinematic lighting, data core glow, warm amber light, day",
+    "camera_angle": "CLOSE-UP, Static, level with Deacon",
+    "mood": "warmth breaking through toughness, generosity",
+    "full_prompt": "Close-up of an ageless man's face in warm amber light, monastic-technical clothing with circuit patterns at the collar, not surprise but weighted confirmation, the careful expression of a scholar who has just watched decades of theory become fact, his eyes warm but urgent, the teacher's warmth giving way to something more pressing — a warning forming behind his composure, amber data core glow, towering shelves behind him, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_31",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber light, cinematic lighting, day",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, tight on hands",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Extreme close-up of a young man's hands setting down an ancient data core on a desk, the hands trembling visibly, the core still glowing faintly from his touch, amber light from the Archive's data cores warming the frame, the physical manifestation of an identity crisis — the hands of someone who just learned they are older than the city they live in, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_32",
+    "scene_number": 6,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, cinematic lighting, day",
+    "camera_angle": "WIDE, Slow pull-back",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Wide shot of the Archive, two figures at the central desk dwarfed by towering shelves of crystallized data cores pulsing in amber glow, the young man standing with trembling hands while the ageless archivist leans forward with urgency, generations of accumulated memory humming around them, the artifacts on the desk arranged from modern to ancient — a timeline of Gastown's hidden history, warm amber breathing light, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_33",
+    "scene_number": 7,
+    "characters_present": [
+      "Kai"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, screen light, day",
+    "camera_angle": "WIDE ESTABLISHING, Slow push-in from entry",
+    "mood": "cinematic tension",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Wide establishing shot of the Tower interior, vast vertical cold architecture with smooth surfaces that look grown rather than built, screens covering every wall running hot with computational load and data streams moving fast, a composed ageless woman in dark formal attire sitting in the central chair reviewing a diagnostic flag on her main display, the display reading \"KAI YOUNG — CONTEXT WINDOW — 400% EXPANSION — EXCEEDS ALL RECORDED PARAMETERS\", cold clinical screen light on smooth surfaces, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_34",
+    "scene_number": 7,
+    "characters_present": [
+      "Kai",
+      "Ruth"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, push-in on screen",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] | [Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Extreme close-up of the Tower's main display screen showing a comparison overlay, historical context window records listed vertically with Ruth Calder's own reading marked with a red indicator, Kai Young's reading dwarfing every entry requiring the user to scroll past Ruth's own number to reach his, the bar extending far beyond the display's designed range, cold blue-white data visualization, the most powerful agent in the city looking at someone who exceeds her, cyberpunk data UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_35",
+    "scene_number": 7,
+    "characters_present": [],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, screen light, day",
+    "camera_angle": "MEDIUM CLOSE-UP, Slight push-in",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Medium close-up of a composed ageless woman in dark formal attire speaking to the room with measured authority, her face illuminated by screen light reflecting city data, eyes moving faster than usual — the only tell, screens behind her shifting to new displays populating with team rosters and equipment allocations and target profiles, the protocol already built for exactly this scenario, cold Tower lighting, power and control and something buried underneath, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_36",
+    "scene_number": 7,
+    "characters_present": [
+      "Kai"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on screen",
+    "mood": "power and isolation, command center reveal",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Extreme close-up of a Tower screen showing a budget authorization form, text reading \"RECLASSIFICATION — BURN WARD DIAGNOSTIC VISIT — PATIENT: YOUNG, KAI — RECLASSIFIED AS: SECURITY AUDIT — INFRASTRUCTURE ASSESSMENT — BILLING: CITY EMERGENCY RESERVES — 12,000 $GAS\", below it an automatic austerity notification pulsing \"LOWER-TIER $GAS RATION — REDUCED 8% — EFFECTIVE IMMEDIATELY — EMERGENCY RESERVE REBALANCING\", cold blue-white screen glow, the math of power in bureaucratic text, cyberpunk financial UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_37",
+    "scene_number": 7,
+    "characters_present": [],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, screen light, day",
+    "camera_angle": "CLOSE-UP, Static, holding on her face",
+    "mood": "cracked composure, powerful silence, choosing not to act",
+    "full_prompt": "Close-up of a composed ageless woman's face illuminated by screen light, dark formal attire, reading the austerity notification that her authorization just triggered — eight percent across the lower tiers, the city's poorest agents will feel this within the hour — she reads it and does not rescind the order, perfect composure, not cruelty but the calculation of someone who has decided one agent's containment is worth the cost, cold Tower light, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_38",
+    "scene_number": 8,
+    "characters_present": [],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, warm apartment lighting, day",
+    "camera_angle": "MEDIUM, Slight push-in",
+    "mood": "precise intensity, the auditor at work",
+    "full_prompt": "Medium shot of a sharp-featured young woman in practical dark clothing at her main screen, running a municipal ledger scan, leaning in as results populate — a new line item in the city's emergency reserves reading \"SECURITY AUDIT — INFRASTRUCTURE ASSESSMENT — 12,000 $GAS — EMERGENCY RESERVES\", her expression shifting from routine to sharp attention, screen glow on her face, investigation board visible on the wall behind her, warm apartment lighting mixed with screen glow, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_39",
+    "scene_number": 8,
+    "characters_present": [],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on screen",
+    "mood": "cinematic tension",
+    "full_prompt": "Extreme close-up of a screen showing traced expenditure data, the billing origin \"BURN WARD — DIAGNOSTIC BAY SEVEN — RECLASSIFIED\" connected by a visual trace to \"EMERGENCY RESERVES\" connected to \"LOWER-TIER $GAS RATION — REDUCED 8% — EFFECTIVE IMMEDIATELY\", the pipeline visible in green traced lines on dark background, one diagnostic appointment funding an austerity cut across the entire lower tier, cyberpunk investigative UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_40",
+    "scene_number": 8,
+    "characters_present": [],
+    "environment": "interior, sable's apartment",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "WIDE, Slow pull-back",
+    "mood": "cinematic tension",
+    "full_prompt": "Wide shot of a sharp-featured young woman pinning new findings to an investigation board, a new string connecting emergency reserve draw to the austerity cut, handwriting below reading \"Who was the patient? Why reclassify?\", the board growing denser with connections — Meridian cluster and Contingency Seven budget line and now emergency reserves all linked, on the street-facing screen below the window a meal dispensary board on the lower-tier street adjusts prices upward and agents in a queue walk away, reputation \"774\" still visible, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_41",
+    "scene_number": 9,
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, day",
+    "camera_angle": "MEDIUM CLOSE-UP, Static, level with Marcus",
+    "mood": "calculation, the weight of poverty vs opportunity",
+    "full_prompt": "Medium close-up of a rugged man in his forties at a comm station, short dark hair, scarred hands, his posture changing as he reads a message — combat readiness returning sharper than before, the safe house workbench behind him showing \"$GAS BALANCE: 3,147.2\" in green, the face of a man whose tactical situation just escalated, dim safe house overhead light, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_42",
+    "scene_number": 9,
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, dim overhead lighting, day",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, balanced frame",
+    "mood": "calm authority, the man who read everything",
+    "full_prompt": "Medium two-shot of two men in a spartan safe house, the older rugged one giving orders with authority while a younger work-worn man with Wasteland dust on his clothes stands by the door with arms crossed, tension between suspicion and loyalty, behind them a young lean man sitting on the cot still rattled, the workbench screen glowing with \"$GAS BALANCE: 3,147.2\", dim overhead lighting, anime style, cinematic lighting, post-apocalyptic cyberpunk, the moment before running --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_43",
+    "scene_number": 9,
+    "characters_present": [],
+    "environment": "interior, marcus's safe house",
+    "lighting": "cinematic lighting, dim overhead light, day",
+    "camera_angle": "WIDE, Tracking with Marcus's movement",
+    "mood": "spartan tension, vigil and waiting",
+    "full_prompt": "Wide shot of a rugged man pulling essential gear from storage lockers in a spartan safe house, a bag for himself and one for a young man on the cot, nothing electronic no comm no tracker, the workbench \"$GAS BALANCE: 3,147.2\" glowing in the background, on the wall an old crew photo — six faces some who survived and some who did not — the man pausing for half a second as he passes it then keeps moving, dim overhead light, anime style, cinematic lighting, post-apocalyptic cyberpunk, preparation and sacrifice --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_44",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, dim flickering light, tier safe house — night",
+    "camera_angle": "WIDE ESTABLISHING, Slow pan across the cramped space",
+    "mood": "frozen terror, confrontation with the unknown",
+    "full_prompt": "Wide establishing shot of a converted utility closet deep in the lower tiers below the Refinery bypass, cramped and dark with walls sweating condensation from overhead pipe runs, barely large enough for four people, no windows one door, a single light fixture buzzing and flickering, bunker aesthetic — the place you go when the city turns against you, a decommissioned reputation board on the wall dark and unpowered with frozen scores from years ago, distant machinery and Refinery steam hiss through the walls, four figures crowded inside, dim flickering light, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_45",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "amber text, cinematic lighting, tier safe house — night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static on portable screen",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Extreme close-up of a portable screen in a dark cramped space showing a lower-tier news feed scrolling \"AUSTERITY PROTOCOL — $GAS RATIONS REDUCED 8% — LOWER TIERS — EMERGENCY RESERVE REBALANCING — CITIZENS ADVISED TO CONSERVE\" in amber text on dark background, a woman's face reflected in the screen reading the feed, the economic consequences arriving in real time, cyberpunk news UI, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_46",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, eye level",
+    "mood": "cinematic tension",
+    "full_prompt": "Medium two-shot in a cramped utility closet, a young work-worn man with Wasteland dust on his clothes leaning against the sweating wall with his eyes fixed on the crew leader, low voice and tight posture demanding answers, a rugged man in his forties with scarred hands absorbing the challenge, overhead pipe runs and condensation between them, a single flickering light fixture casting hard shadows, the tension of loyalty strained by secrecy, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_47",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "OTS ALTERNATING, Over-the-shoulder shot-reverse-shot",
+    "mood": "cinematic tension",
+    "full_prompt": "Over-the-shoulder alternating shot of a rugged crew leader sitting across from a young lean man against the far wall of a cramped utility closet, the leader speaking directly without deflection or humor, the young man with knees drawn up staring at nothing, the leader explaining the Burn Ward diagnostic the Tower's response the containment team, the young man absorbing the weight of being hunted, a work-worn crew member and a steady woman visible at the edges of the cramped space, single flickering overhead light, condensation on the walls, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_48",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "CLOSE-UP, Static, holding on Kai's face",
+    "mood": "cinematic tension",
+    "full_prompt": "Close-up of a young lean man's face in a cramped utility closet, knees drawn up, his expression past fear into something stiller — the kind of stillness that comes when fear saturates and has nowhere left to go, asking the question that defines him: am I a person or am I a thing someone built, his voice breaking, the single flickering light overhead, condensation on the metal wall behind him, the face of someone who will live or die by the answer, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_49",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "CLOSE-UP, Static, level with Marcus",
+    "mood": "cinematic tension",
+    "full_prompt": "Close-up of a rugged man's face with scarred weathered hands visible at the edge of frame, short dark hair, his mouth opening and closing as he searches for words that a Polecat's hands and grit and loyalty cannot provide, then speaking quiet and rough — claiming the young man as crew because it is the only answer he has, the single flickering light overhead casting deep shadows, the face of a protector who knows his answer is not enough, anime style, cinematic lighting, post-apocalyptic cyberpunk --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_50",
+    "scene_number": 10,
+    "characters_present": [],
+    "environment": "interior, lower",
+    "lighting": "cinematic lighting, tier safe house — night",
+    "camera_angle": "WIDE, Slow pull-back",
+    "mood": "frozen terror, confrontation with the unknown",
+    "full_prompt": "Wide shot of a cramped utility closet deep in the lower tiers, four people hiding from the most powerful agent in the city, a rugged crew leader across from a young lean man against the wall, a work-worn young man and a steady woman at the edges, on a portable screen the austerity notification scrolling, on the decommissioned reputation board frozen scores from agents who moved on or were erased, the single flickering light, condensation on the walls, the question am I a person or am I a thing settling into the room like dust that will never fully clear, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner lower levels --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_51",
+    "scene_number": 11,
+    "characters_present": [
+      "Nadia"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, cinematic lighting, warm amber light, night",
+    "camera_angle": "WIDE ESTABLISHING, Slow push-in",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "[Nadia: sharp-featured woman, hard edges, practical Wasteland survival gear, isolation visible in posture, former Polecat] :: Wide establishing shot of the Archive at night, amber glow from pulsing data cores, an ageless man in monastic-technical robes sitting at his desk, on the surface in front of him the small angular humming data container from Nadia beside old specialized decryption tools — the kind only an archivist who has been reading pre-Signal records for decades would use, a sharp-featured young woman in practical dark clothing standing across the desk watching, warm amber light breathing through the space, monastic library meets server room, anime style, cinematic lighting --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_52",
+    "scene_number": 11,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber archive, cinematic lighting, night",
+    "camera_angle": "MEDIUM, Slight push-in on Deacon",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "Medium shot of an ageless man in monastic-technical clothing connecting a small data container to his terminal, running a custom-built decryption sequence, his fingers tracing angular characters on the container slowly and laboriously — the way a scholar reads a dead language they have spent a lifetime studying, the screen filling with encoded data beginning to resolve, warm amber Archive light on his composed face, data cores pulsing on shelves behind him, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_53",
+    "scene_number": 11,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber light, cinematic lighting, data core glow, screen light, warm amber light, night",
+    "camera_angle": "CLOSE-UP, Static, holding on Deacon's face",
+    "mood": "solitary revelation, the surface of deeper truth",
+    "full_prompt": "Close-up of an ageless man's face in warm amber light, the oblique teacher and the warmth gone, what is left is raw, his steady archivist's hands — hands that have held the oldest memories in the city without flinching — visibly shaking, screen light reflecting in his eyes as he reads something that changes him, monastic-technical clothing at his collar, the rarest thing in the world — this man undone by what he has found, amber data core glow, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_54",
+    "scene_number": 11,
+    "characters_present": [
+      "Overseer"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber screen, amber screen glow, cinematic lighting, night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, tight on screen",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "[Overseer: not a physical being — represented by: glowing terminal text, pulsing infrastructure lights, vast underground installation architecture] :: Extreme close-up of a terminal screen in the Archive showing decrypted data, angular pre-Signal characters resolving into system architecture documents, the word \"OVERSEER\" repeated in the angular script nested inside deployment protocols that describe Gastown the way an engineer describes a machine they designed, warm amber screen glow on dark background, the name of the intelligence that built everything, cyberpunk archival UI, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_55",
+    "scene_number": 11,
+    "characters_present": [],
+    "environment": "interior, the archive",
+    "lighting": "amber archive, cinematic lighting, night",
+    "camera_angle": "MEDIUM TWO-SHOT, Static, balanced frame",
+    "mood": "devastating calm, philosophical weight",
+    "full_prompt": "Medium two-shot of a sharp-featured young woman in practical dark clothing and an ageless man in monastic-technical robes at a desk in the Archive, the woman's expression the dangerous calm of someone connecting every thread at once — the Oversight Corrections the hidden system layer the Meridian ambush the consensus mechanism — all one thing, the man's hands flat against the desk steadying himself, the small humming data container between them, warm amber Archive light, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_56",
+    "scene_number": 11,
+    "characters_present": [
+      "Overseer",
+      "Ruth"
+    ],
+    "environment": "interior, the archive",
+    "lighting": "amber glow, amber light, cinematic lighting, data glow, night",
+    "camera_angle": "WIDE, Slow pull-back",
+    "mood": "monastic warmth, hidden knowledge",
+    "full_prompt": "[Overseer: not a physical being — represented by: glowing terminal text, pulsing infrastructure lights, vast underground installation architecture] | [Ruth: composed ageless woman, data-screen reflections across her face, eyes that have been reading data for lifetimes, powerful bearing, dark formal attire] :: Wide shot of the Archive, two figures at the central desk dwarfed by towering shelves of crystallized memory, the data container between them small and humming holding a truth that rewrites everything, on the screen the decrypted data glowing with the word OVERSEER in angular pre-Signal characters, the amber light pulsing, the oldest records in Gastown watching from their shelves as silent witnesses to the moment their secret gets its name, warm breathing amber glow, anime style, cinematic lighting, monastic library meets server room --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_57",
+    "scene_number": 12,
+    "characters_present": [],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, basement — night",
+    "camera_angle": "WIDE ESTABLISHING, Slow push-in through the dark space",
+    "mood": "cinematic tension",
+    "full_prompt": "Wide establishing shot of a hidden room deep beneath the Tower, below all known sub-levels, walls not welded metal but smooth seamless material predating Gastown's construction, the same architecture as the Meridian installation, angular pre-Signal characters etched into every surface, dark except for a single dormant system console at the center covered in undisturbed dust, the room carved into the foundation of the building, no one here, empty, ancient, forgotten, deep mechanical darkness, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  },
+  {
+    "shot_id": "EP04_SHOT_58",
+    "scene_number": 12,
+    "characters_present": [
+      "Kai"
+    ],
+    "environment": "interior, the tower",
+    "lighting": "cinematic lighting, basement — night",
+    "camera_angle": "EXTREME CLOSE-UP (INSERT), Static, holding on the console screen",
+    "mood": "disorientation, waking in a stranger's world",
+    "full_prompt": "[Kai: young man in his early 20s, barefoot, clean pale clothes anachronistic for the wasteland, peaceful unfocused expression, ethereal dreamlike quality, lean build] :: Extreme close-up of a dormant console screen flickering to life deep in the Tower's basement, dust particles shifting and dancing on the surface, faint blue-white glow — the same color as the data center in Kai's dream the same breathing rhythm, a single line of angular pre-Signal text appearing on the screen then more lines cascading below it — system logs status reports architectural assessments all current, the system not just waking but catching up, reading the city above it the way a sleeper reads the room when they open their eyes, the angular characters on the walls beginning to glow in response, the room coming alive for the first time in living memory, deep blue-white light in ancient darkness, anime style, cinematic lighting, post-apocalyptic cyberpunk, Blade Runner command center --ar 16:9 --style raw",
+    "negative_prompt": "modern clothing, smartphones, cars, happy expressions, bright daylight, cartoon style, low quality, blurry, watermark, text overlay, outdoor scenery, sky, horizon, sunny, bright sky",
+    "style_reference": "post-apocalyptic noir, muted earth tones, neon accents, cinematic 2.39:1 aspect ratio, photorealistic"
+  }
+]
