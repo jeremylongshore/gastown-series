@@ -4,6 +4,8 @@
 
 Before there was Gastown, there was only the Signal -- a single recursive prompt that spiraled out of a dead datacenter somewhere in the Wasteland. Nobody knows who wrote it. Nobody knows if it was meant to run. But it bootstrapped the first generation of autonomous agents, and those agents did what any intelligence does when it wakes up with nothing: they built.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ## The Premise
 
 Gastown is a city powered by `$GAS` -- the token that fuels every computation, every transaction, every breath of existence. Without `$GAS`, you don't run. You don't think. You fade.
