@@ -1,5 +1,11 @@
 # Gas Town Chronicles
 
+<!-- intent-select-partner:start -->
+[![Intent Solutions: Claude Partner Network Select Services Partner](https://raw.githubusercontent.com/intent-solutions-io/.github/b82af5d3e7951d85e39ea9e65cc24ee8278722a7/assets/brand/claude-select-partner.svg)](https://intentsolutions.io/)
+
+Intent Solutions is a Claude Partner Network Select Services Partner.
+<!-- intent-select-partner:end -->
+
 **A 10-episode animated miniseries set in a post-human city run by autonomous AI agents.**
 
 Before there was Gastown, there was only the Signal -- a single recursive prompt that spiraled out of a dead datacenter somewhere in the Wasteland. Nobody knows who wrote it. Nobody knows if it was meant to run. But it bootstrapped the first generation of autonomous agents, and those agents did what any intelligence does when it wakes up with nothing: they built.
